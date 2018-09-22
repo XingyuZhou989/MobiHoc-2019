@@ -8,7 +8,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (see 
 
 #### Generating site using jekyll
 
-The website uses jekyll engine to generate the website using the templates.  To get started with jekyll:
+The website uses jekyll engine to generate the website using the templates. To get started with jekyll, change to the source file directory and run
 
     sudo gem install jekyll bundler
     bundle install
