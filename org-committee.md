@@ -26,7 +26,7 @@ committees:
         affiliation: KAIST
         homepage:    http://lanada.kaist.ac.kr/~yi/
 
-    - role: Local Arrangements Chairs
+    - role: Local Arrangements Chair
       people:
       - name:        Laura Galluccio
         affiliation: University of Catania
@@ -44,20 +44,21 @@ committees:
 
     - role: Publicity Chairs
       people:
-      - name:        Venkatesh Prasad
+      - name:        RangaRao Venkatesha Prasad
         affiliation: Delft University of Technology, The Netherlands
         homepage:    http://homepage.tudelft.nl/w5p50/
 
 
       - name:        Simone Silvestri
         affiliation: University of Kentucky
-        homepage:    http://reti.dsi.uniroma1.it/eng/maselli/
+        homepage:    http://www.cs.uky.edu/~silvestri/
+
 
     - role: Registration Chair
       people:
       - name:        Gaia Maselli
         affiliation: Sapienza University of Rome
-        homepage:    https://lasr.cs.ucla.edu/reiher/
+        homepage:    http://reti.dsi.uniroma1.it/eng/maselli/
 
     - role: Travel Grant Chair
       people:
@@ -65,7 +66,7 @@ committees:
         affiliation: Arizona State University
         homepage:    http://www.public.asu.edu/~syrotiuk/
 
-      - name:        Venkatesh Prasad
+      - name:        RangaRao Venkatesha Prasad
         affiliation: Delft University of Technology, The Netherlands
         homepage:    http://homepage.tudelft.nl/w5p50/
 
@@ -88,7 +89,7 @@ committees:
     - role: Poster and Demo Chairs
       people:
       - name:        Carla Fabiana Chiasserini
-        affiliation: University of Florence
+        affiliation: Politecnico di Torino
         homepage:    https://www.telematica.polito.it/public/faculty/carla-fabiana-chiasserini
 
       - name:        Serge Fdida
@@ -98,10 +99,10 @@ committees:
     - role: Corporate Sponsorship Chair
       people:
       - name:        Marco Ajmone Marsan
-        affiliation: politecnico di torino
+        affiliation: Politecnico di Torino
         homepage:    https://www.telematica.polito.it/public/faculty/marco-ajmone-marsan
 
-    - role: Web Chairs
+    - role: Web Chair
       people:
       - name:        Yin Sun
         affiliation: Auburn University
