@@ -17,8 +17,8 @@ description: "MobiHoc 2019, the Twentieth International Symposium on Mobile Ad H
 baseurl: "/mobihoc/2019"
 url: "https://www.sigmobile.org"
 
-google:
-  - analytics: UA-83529610-3
+# google:
+#   - analytics: UA-TBD....
 
 ## Note. Uncomment and update spreadsheet parameters to enable pulling program
 ##       data from Google Sheet(s)
