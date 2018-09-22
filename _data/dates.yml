@@ -6,16 +6,16 @@
 
 # All listed dates will appear in the specified order
 
-main-registration:
-  track: main
-  info: Paper Registration Deadline (11:59pm PST)
-  date: December 15, 2018
-  important: true
-main-submission:
-  track: main
-  info: Paper Submission Deadline (11:59pm PST)
-  date: December 22, 2018 <b>(firm, no extension)</b>
-  important: true
+# main-registration:
+#   track: main
+#   info: Paper Registration Deadline (11:59pm PST)
+#   date: December 15, 2018
+#   important: true
+# main-submission:
+#   track: main
+#   info: Paper Submission Deadline (11:59pm PST)
+#   date: December 22, 2018 <b>(firm, no extension)</b>
+#   important: true
 
 #cfw-1:
 #  track: cfw
