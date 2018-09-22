@@ -6,7 +6,7 @@ group: Welcome
 
 # Welcome to MobiHoc 2019
 
-MobiHoc 2019, the twentieth International Symposium on Mobile Ad Hoc Networking and Computing will be held in Catania, Italy in July 2019.
+MobiHoc 2019, the Twentieth International Symposium on Mobile Ad Hoc Networking and Computing will be held in Catania, Italy in July 2019.
 MobiHoc is a premier international symposium dedicated to addressing challenges in dynamic networks and computing.
 
 It will bring together researchers and practitioners from a broad spectrum of networking research to present the most up-to-date results and achievements in the field.
