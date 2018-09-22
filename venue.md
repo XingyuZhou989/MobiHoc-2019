@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Venue
-group: Local Information
+group: Attendee Information
 
 ---
 

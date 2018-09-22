@@ -143,11 +143,11 @@ main-submission:
 #  date: June 25, 2018
 #  important: true
 
-#conference:
-#  track: main
-#  info: Conference
-#  date: June 25, 2018 - June 29, 2018
-#  important: true
+conference:
+ track: main
+ info: Conference
+ date: July 2, 2019 - July 5, 2019
+ important: true
 
 # ## Workshop planning dates
 # workshops-planning-submission:

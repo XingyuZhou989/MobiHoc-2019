@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Camera-Ready Instructions
-group: Calls
+group: Author Information
 
 ---
 

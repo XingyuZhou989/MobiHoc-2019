@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accommodations
-group: Local Information
+group: Attendee Information
 
 ---
 
