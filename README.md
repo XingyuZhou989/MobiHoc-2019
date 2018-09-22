@@ -6,12 +6,23 @@ This repository contains code and data for the MobiHoc 2019 web site.
 
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (see [LICENSE.md](LICENSE.md) for details).
 
+#### Prerequisites
+
+You will need `bower` tool.  On macOS with Homebrew
+
+    sudo port install bower
+
+On other system with nodejs installed:
+
+    sudo npm install -g bower
+
 #### Generating site using jekyll
 
 The website uses jekyll engine to generate the website using the templates. To get started with jekyll, change to the source file directory and run
 
     sudo gem install jekyll bundler
     bundle install
+    bower install
     bundle exec jekyll build
 
 To generate the website and serve it from a local webserver, e.g., for debugging
@@ -28,7 +39,6 @@ The repository is organized as follows:
 * `_layouts/`   are layout files
 * `_assets/`    CSS, javascript, and image assets
 * `*.md`, `*.html` Individual pages in markdown or HTML format
-* `_site/`    Generated website files. It contains the font files "font-awesome" and "bootstrap" to avoid some errors.
 
 ## Getting started as MobiHoc web chair
 
