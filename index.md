@@ -4,14 +4,14 @@ title: Welcome
 group: Welcome
 ---
 
-# Welcome to MobiHoc 2018
+# Welcome to MobiHoc 2019
 
-MobiHoc 2018, the Nineteenth International Symposium on Mobile Ad Hoc Networking and Computing will be held in Los Angeles, USA in June 2018.
+MobiHoc 2019, the twentieth International Symposium on Mobile Ad Hoc Networking and Computing will be held in Catania, Italy in July 2019.
 MobiHoc is a premier international symposium dedicated to addressing challenges in dynamic networks and computing.
 
 It will bring together researchers and practitioners from a broad spectrum of networking research to present the most up-to-date results and achievements in the field.
 
-MobiHoc 2018 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel.
+MobiHoc 2019 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel.
 In addition, it includes workshops that are focused on areas of emerging interest.
 
 ## With Generous Support From
