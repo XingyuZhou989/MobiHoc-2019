@@ -13,9 +13,9 @@
     - name: Program Committee
       url: /tpc.html
       # icon: fa-users
-    - name: TPC Meeting
-      url: /tpc-meeting.html
-      # icon: fa-users
+#    - name: TPC Meeting
+#      url: /tpc-meeting.html
+#      # icon: fa-users
 # - name: ">> Register Now <<"
 #   url: /registration.html
 #   highlight: menu-hl
