@@ -11,10 +11,22 @@ Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (see 
 You will need `bower` tool.  On macOS with Homebrew
 
     sudo port install bower
+    (or brew install bower)
 
 On other system with nodejs installed:
 
     sudo npm install -g bower
+
+You will need `xpdf` and `ImageMagick` to generate the conference program. On macOS with Homebrew
+
+    brew install xpdf 
+    brew install imagemagick
+    sudo chown -R yourusername:admin /usr/local/include/
+    brew link imagemagick
+If you're not sure of your username, you can run the command
+
+    whoami
+
 
 #### Generating site using jekyll
 
