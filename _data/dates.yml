@@ -6,16 +6,18 @@
 
 # All listed dates will appear in the specified order
 
-# main-registration:
-#   track: main
-#   info: Paper Registration Deadline (11:59pm PST)
-#   date: December 15, 2018
-#   important: true
-# main-submission:
-#   track: main
-#   info: Paper Submission Deadline (11:59pm PST)
-#   date: December 22, 2018 <b>(firm, no extension)</b>
-#   important: true
+main-registration:
+   track: main
+   info: Paper Registration Deadline (11:59pm PST)
+   date: December 14, 2018
+   important: true
+
+main-submission:
+   track: main
+   info: Paper Submission Deadline (11:59pm PST)
+   date: December 21, 2018 <b>(firm, no extension)</b>
+   important: true
+
 
 #cfw-1:
 #  track: cfw
@@ -60,12 +62,26 @@
 #  date: June 26, 2018 - June 29, 2018
 #  info: Conference
 
+first-review-deadline:
+  track: main
+  info: First Review Deadline
+  date: February 17, 2019
+  important: true
 
-#main-notification:
-#  track: main
-#  info: Acceptance Notification
-#  date: March 16, 2018
-#  important: true
+
+rebuttal-deadline:
+  track: main
+  info: Rebuttal Deadline
+  date: February 22, 2019
+  important: true
+
+
+main-notification:
+  track: main
+  info: Notification of Acceptance
+  date: March 29, 2019
+  important: true
+
 # main-due:
 #   track: main
 #   info: Camera Ready Due
@@ -137,11 +153,11 @@
 #   info: Deadline to Accept/Decline Travel Grant Award
 #   date: August 30, 2017
 
-#conference:
-#  track: main
-#  info: Workshops
-#  date: June 25, 2018
-#  important: true
+Workshops:
+  track: main
+  info: Workshops
+  date: July 2, 2019
+  important: true
 
 conference:
  track: main
