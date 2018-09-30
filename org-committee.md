@@ -48,11 +48,13 @@ committees:
         affiliation: Delft University of Technology, The Netherlands
         homepage:    http://homepage.tudelft.nl/w5p50/
 
-
       - name:        Simone Silvestri
         affiliation: University of Kentucky
         homepage:    http://www.cs.uky.edu/~silvestri/
 
+      - name:        Giovanni Neglia
+        affiliation: The French Institute for Research in Computer Science and Automation (inria)
+        homepage:    http://www-sop.inria.fr/members/Giovanni.Neglia/ 
 
     - role: Registration Chair
       people:
