@@ -32,7 +32,7 @@ committees:
         affiliation: University of Catania
         homepage:    http://www.diit.unict.it/users/lgalluccio/
 
-    - role: Submission and Publication Chair
+    - role: Submission and Publication Chairs
       people:
       - name:        Longbo Huang
         affiliation: Tsinghua University
@@ -62,7 +62,7 @@ committees:
         affiliation: Sapienza University of Rome
         homepage:    http://reti.dsi.uniroma1.it/eng/maselli/
 
-    - role: Travel Grant Chair
+    - role: Travel Grant Chairs
       people:
       - name:        Violet Syrotiuk
         affiliation: Arizona State University
