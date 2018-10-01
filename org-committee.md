@@ -32,7 +32,7 @@ committees:
         affiliation: University of Catania
         homepage:    http://www.diit.unict.it/users/lgalluccio/
 
-    - role: Submission and Publication Chair
+    - role: Submission and Publication Chairs
       people:
       - name:        Longbo Huang
         affiliation: Tsinghua University
@@ -48,11 +48,13 @@ committees:
         affiliation: Delft University of Technology, The Netherlands
         homepage:    http://homepage.tudelft.nl/w5p50/
 
-
       - name:        Simone Silvestri
         affiliation: University of Kentucky
         homepage:    http://www.cs.uky.edu/~silvestri/
 
+      - name:        Giovanni Neglia
+        affiliation: The French Institute for Research in Computer Science and Automation (inria)
+        homepage:    http://www-sop.inria.fr/members/Giovanni.Neglia/ 
 
     - role: Registration Chair
       people:
@@ -60,7 +62,7 @@ committees:
         affiliation: Sapienza University of Rome
         homepage:    http://reti.dsi.uniroma1.it/eng/maselli/
 
-    - role: Travel Grant Chair
+    - role: Travel Grant Chairs
       people:
       - name:        Violet Syrotiuk
         affiliation: Arizona State University
