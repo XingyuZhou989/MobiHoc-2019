@@ -7,6 +7,8 @@ group: Attendee Information
 
 # {{ page.title }}
 
+{% asset venue1.jpg align="right" width="350 px" height="260 px" alt='Four Points by Sheraton Catania Hotel and Conference Center' %} 
+
 ACM MobiHoc 2019 will take place at Four Points Sheraton Catania Hotel, a nice and comfortable hotel and conference center on the seaside of Catania.
 <div class="clearfix"></div>
 
