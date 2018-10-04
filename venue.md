@@ -7,7 +7,7 @@ group: Attendee Information
 
 # {{ page.title }}
 
-ACM MobiHoc 2019 will take place at [Four Points Sheraton Catania Hotel](https://www.marriott.com/hotels/travel/ctasi-four-points-catania-hotel-and-conference-center/), a nice and comfortable hotel and conference center on the seaside of Catania.
+ACM MobiHoc 2019 will take place at Four Points Sheraton Catania Hotel, a nice and comfortable hotel and conference center on the seaside of Catania.
 <div class="clearfix"></div>
 
 Address:
@@ -18,7 +18,7 @@ Address:
 
 ## Getting to Conference Venue
 
-The conference venue is just 14 km from Catania International Airport (CTA) with direct flights from all major Italian and European Cities. From the International Catania Airport, you can get to the hotel either by bus or by taxi. For bus, there are two alternative routes:
+The conference venue is just 14 km from Catania–Fontanarossa Airport (CTA) with direct flights from all major Italian and European Cities. From Catania–Fontanarossa Airport, you can get to the hotel either by bus or by taxi. For bus, there are two alternative routes:
 
 - Alibus and Bus 935: Take Alibus at the airport and get off at Piazza della Repubblica; then take Bus 935 and get off at La Scogliera, Sheraton Hotel
 - Alibus and Bus 534: Take Alibus at the airport and get off at Piazza Borsellino; then take Bus 534 and get off at La Scogliera, Sheraton Hotel

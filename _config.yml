@@ -41,7 +41,9 @@ assets:
     - _assets/fonts
     - _assets/js
     - _assets/bower
-
+    - _assets/files
+    - .sass-cache
+    
   autoprefixer:
     browsers:
       - "last 2 versions"
