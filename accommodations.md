@@ -6,7 +6,7 @@ group: Attendee Information
 hotels:
 - id: fourpoints
   name: Marriott Four Points by Sheraton Catania Hotel and Conference Center
-  rates: €113 (double single) / €113 (double/twin)
+  rates: €113 (double single) / €133 (double/twin)
   amenities: [Conference Hotel, Free WiFi]
   address: Via Antonello da Messina 45, Aci Castello, Catania, 95021, Italy
   url: https://www.marriott.com/hotels/travel/ctasi-four-points-catania-hotel-and-conference-center/
