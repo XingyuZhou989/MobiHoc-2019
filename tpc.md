@@ -19,6 +19,9 @@ committees:
       - name: Alhussein Abouzeid
         affiliation: Rensselaer Polytechnic Institute
         homepage:
+      - name: Armand Makowski
+        affiliation: University of Maryland
+        homepage:
       - name: Atilla Eryilmaz
         affiliation: The Ohio State University
         homepage:
@@ -61,6 +64,9 @@ committees:
       - name: Eylem Ekici
         affiliation: The Ohio State University
         homepage:            
+      - name: Eytan Modiano  
+        affiliation: MIT
+        homepage: 
       - name: Fan Wu
         affiliation: Shanghai Jiao Tong University
         homepage: 
@@ -76,6 +82,9 @@ committees:
       - name: Guoliang Xue
         affiliation: Arizona State University
         homepage:  
+      - name: Gustavo de Veciana
+        affiliation: University of Texas at Austin
+        homepage:          
       - name: Hamidreza Tavafoghi	
         affiliation: University of California Berkeley
         homepage:         
@@ -109,9 +118,12 @@ committees:
       - name: Jie Gao
         affiliation: Stony Brook University
         homepage:
+      - name: John Lui
+        affiliation: Chinese University of Hong Kong, China
+        homepage:    
       - name: Jorg Liebeherr
         affiliation: University of Toronto
-        homepage:        
+        homepage:              
       - name: Junshan Zhang
         affiliation: Arizona State University
         homepage:             
@@ -123,6 +135,9 @@ committees:
         homepage:
       - name: Kyunghan Lee
         affiliation: UNIST
+        homepage:   
+      - name: Leandros Tassiulas
+        affiliation: Yale University
         homepage:        
       - name: Lei Yang
         affiliation: University of Nevada, Reno
@@ -154,6 +169,9 @@ committees:
       - name: Michael Neely
         affiliation: University of Southern California
         homepage: 
+      - name: Ness Shroff
+        affiliation: The Ohio State University
+        homepage: 
       - name: Parimal Parag
         affiliation: Indian Institute of Science
         homepage:              
@@ -169,6 +187,9 @@ committees:
       - name: Peter Marbach
         affiliation: University of Toronto
         homepage:
+      - name: R. Srikant
+        affiliation: UIUC
+        homepage:        
       - name: Raghupathy Sivakumar
         affiliation: Georgia Institute of Technology
         homepage:   
@@ -177,7 +198,10 @@ committees:
         homepage: 
       - name: Rahul Vaze
         affiliation: Tata Institute of Fundamental Research
-        homepage:            
+        homepage:    
+      - name: Rajeev Agrawal
+        affiliation: Nokia
+        homepage:           
       - name: Rajesh Sundaresan
         affiliation: Indian Institute of Science
         homepage: 
@@ -196,6 +220,12 @@ committees:
       - name: Richard La
         affiliation: University of Maryland at College Park
         homepage:   
+      - name: Roch Guerin
+        affiliation: Washington University in St. Louis
+        homepage:          
+      - name: Sanjay Shakkottai
+        affiliation: University of Texas at Austin
+        homepage:        
       - name: Saswati Sarkar
         affiliation: University of Pennsylvania
         homepage:
@@ -220,6 +250,9 @@ committees:
       - name: Stratis Ioannidis
         affiliation: Northeastern University
         homepage:   
+      - name: Steven Low
+        affiliation: California Institute of Technology
+        homepage:           
       - name: Song Chong
         affiliation: Korea Advanced Institute of Science and Technology
         homepage:              
@@ -235,12 +268,18 @@ committees:
       - name: Tommaso Melodia
         affiliation: Northeastern University
         homepage:  
+      - name: Tony Ephremides  
+        affiliation: University of Maryland
+        homepage:  
       - name: Vaneet Aggarwal
         affiliation: Purdue University
         homepage: 
       - name: Venkatesh Ramaiyan
         affiliation: Indian Institute of Technology Madras
         homepage:             
+      - name: Vivek Borkar
+        affiliation: IIT, Mumbai, India
+        homepage:  
       - name: Weina Wang	
         affiliation: Carnegie Mellon University
         homepage:    
