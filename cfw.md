@@ -31,6 +31,7 @@ RELEVANT DATES for workshops are:
 - Workshop paper submission deadline (suggested): **April 7, 2019**
 - Workshop paper acceptance notification (hard deadline): **May 5, 2019**
 
-Workshop organizers should send their proposals to both Workshop Co-Chairs Laura Galluccio and Stefano Basagni by email.
+Workshop organizers should send their proposals to both Workshop Co-Chairs Laura Galluccio <laura.galluccio@unict.it> and Stefano Basagni <basagni@ece.neu.edu> by email.
+
 
 [Submit Workshop Proposal](mailto:<laura.galluccio@unict.it,basagni@ece.neu.edu?subject=[MobiHoc'2019] Workshop Proposal){: class="btn btn-primary" }
