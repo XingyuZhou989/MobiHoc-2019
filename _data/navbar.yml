@@ -40,9 +40,6 @@
 #       url: /social-events.html
 #     - name: Accepted Papers
 #       url: /accepted-papers.html
-# - name: Workshops
-#   icon: fa-bullhorn
-#   submenu:
 - name: Author Information
   icon: fa-bullhorn
   submenu:
@@ -75,6 +72,11 @@
       url: /accommodations.html
     # - name: Room Share
     #   url: /room-share.html
+- name: Workshops
+  icon: fa-bullhorn
+  submenu:
+    - name: Call for Workshops
+      url: /cfw.html     
 - name: Anti-Harassment Policy
   url: /policy-anti-harassment.html
   icon: fa-book

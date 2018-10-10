@@ -18,6 +18,11 @@ main-submission:
    date: December 21, 2018 <b>(firm, no extension)</b>
    important: true
 
+workshops-proposals:
+   track: Workshops
+   info: Workshop Proposals Deadline
+   date: January 8, 2019
+   important: true
 
 #cfw-1:
 #  track: cfw
@@ -113,11 +118,7 @@ main-notification:
 #   info: Notification of Acceptance
 #   date: July 24, 2017
 
-# workshops-proposals:
-#   track: workshops
-#   info: Proposals deadline
-#   date: TBD
-#   important: true
+
 # workshops-notification:
 #   track: workshops
 #   info: Announcement of workshops selected
