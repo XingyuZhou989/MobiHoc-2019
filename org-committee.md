@@ -72,11 +72,17 @@ committees:
         affiliation: Delft University of Technology, The Netherlands
         homepage:    http://homepage.tudelft.nl/w5p50/
 
-    - role: Finance Chair
+    - role: Finance Chairs
       people:
       - name:        Ilenia Tinnirello
         affiliation: University of Palermo
         homepage:    http://www.tti.unipa.it/ilenia/
+      - name:        Ting He
+        affiliation: Penn State University
+        homepage:    https://sites.google.com/site/thtinghe/
+      - name:        John C.S. Lui
+        affiliation: The Chinese University of Hong Kong
+        homepage:    http://www.cse.cuhk.edu.hk/~cslui/   
 
     - role: Workshop Chairs
       people:
