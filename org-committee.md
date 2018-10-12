@@ -72,17 +72,12 @@ committees:
         affiliation: Delft University of Technology, The Netherlands
         homepage:    http://homepage.tudelft.nl/w5p50/
 
-    - role: Finance Chairs
+    - role: Finance Chair
       people:
       - name:        Ilenia Tinnirello
         affiliation: University of Palermo
         homepage:    http://www.tti.unipa.it/ilenia/
-      - name:        Ting He
-        affiliation: Penn State University
-        homepage:    https://sites.google.com/site/thtinghe/
-      - name:        John C.S. Lui
-        affiliation: The Chinese University of Hong Kong
-        homepage:    http://www.cse.cuhk.edu.hk/~cslui/   
+
 
     - role: Workshop Chairs
       people:
@@ -104,11 +99,17 @@ committees:
         affiliation: UPMC Sorbonne University & CNRS
         homepage:    https://www-npa.lip6.fr/~sf/sergefdida/Main_page.html
 
-    - role: Corporate Sponsorship Chair
+    - role: Corporate Sponsorship Chairs
       people:
       - name:        Marco Ajmone Marsan
         affiliation: Politecnico di Torino
         homepage:    https://www.telematica.polito.it/public/faculty/marco-ajmone-marsan
+      - name:        Ting He
+        affiliation: Penn State University
+        homepage:    https://sites.google.com/site/thtinghe/
+      - name:        John C.S. Lui
+        affiliation: The Chinese University of Hong Kong
+        homepage:    http://www.cse.cuhk.edu.hk/~cslui/     
 
     - role: Web Chair
       people:
