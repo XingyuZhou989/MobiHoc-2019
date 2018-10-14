@@ -43,6 +43,9 @@ committees:
       - name: Changhee Joo
         affiliation: UNIST
         homepage:   
+      - name: Chee Wei Tan
+        affiliation: HongKong City University
+        homepage:    
       - name: Chul-ho Lee
         affiliation: Florida Institute of Technology
         homepage:   
@@ -121,12 +124,15 @@ committees:
       - name: John Lui
         affiliation: Chinese University of Hong Kong, China
         homepage:    
+      - name: Joongheon Kim
+        affiliation: Choong Ang University, Korea
+        homepage:     
       - name: Jorg Liebeherr
         affiliation: University of Toronto
         homepage:              
       - name: Junshan Zhang
         affiliation: Arizona State University
-        homepage:             
+        homepage:               
       - name: Konstantinos Psounis
         affiliation: University of Southern California
         homepage:
@@ -252,7 +258,7 @@ committees:
         homepage:   
       - name: Steven Low
         affiliation: California Institute of Technology
-        homepage:           
+        homepage:  
       - name: Song Chong
         affiliation: Korea Advanced Institute of Science and Technology
         homepage:              
@@ -288,6 +294,9 @@ committees:
         homepage:                         
       - name: Xiaojun Lin
         affiliation: Purdue University
+        homepage:
+      - name: Xiaowen Gong
+        affiliation: Auburn University
         homepage:
       - name: Xinbing Wang
         affiliation: Shanghai Jiao Tong University, China
