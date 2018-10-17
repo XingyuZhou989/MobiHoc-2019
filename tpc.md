@@ -125,7 +125,7 @@ committees:
         affiliation: Chinese University of Hong Kong, China
         homepage:    
       - name: Joongheon Kim
-        affiliation: Choong Ang University, Korea
+        affiliation: Chung-Ang University, Korea
         homepage:     
       - name: Jorg Liebeherr
         affiliation: University of Toronto
