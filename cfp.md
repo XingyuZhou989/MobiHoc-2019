@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call for Papers
+title: <del>Call for Papers</del>
 group: Author Information
 
 ---

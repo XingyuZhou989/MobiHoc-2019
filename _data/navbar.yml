@@ -43,16 +43,12 @@
 - name: Author Information
   icon: fa-bullhorn
   submenu:
-    - name: Call for Papers
+    - name: <del>Call for Papers</del>
       url: /cfp.html
     - name: Submission Instructions
       url: /submission.html
     - name: Camera-Ready Instructions
       url: /camera-ready.html
-    # - name: Call for Posters
-    #   url: /cf-posters.html
-    # - name: Call for Demos
-    #   url: /cf-posters.html
     - name: Author Registration Policy
       url: /policy-author-registration.html
     - name: No-Show Policy
@@ -76,7 +72,19 @@
   icon: fa-bullhorn
   submenu:
     - name: Call for Workshops
-      url: /cfw.html     
+      url: /cfw.html    
+- name: Calls    
+  icon: fa-bullhorn
+  submenu:  
+    - name: <del>Call for Papers</del>
+      url: /cfp.html
+    - name: Call for Workshops
+      url: /cfw.html   
+    - name: Call for Posters
+      url: /cf-posters.html
+    - name: Call for Demos
+      url: /cf-demos.html    
+
 - name: Anti-Harassment Policy
   url: /policy-anti-harassment.html
   icon: fa-book

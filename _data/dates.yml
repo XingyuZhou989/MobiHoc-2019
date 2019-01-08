@@ -24,55 +24,6 @@ workshops-proposals:
    date: January 8, 2019
    important: true
 
-#cfw-1:
-#  track: cfw
-#  info: Workshop Proposals due
-#  date: January 24, 2018
-#  important: true
-
-#posters-1:
-#  track: posters
-#  date: March 2, 2018
-#  info: Poster Submission Deadline
-#  important: true
-
-#posters-2:
-#  track: posters
-#  date: <del>April 6, 2018</del>
-#  info: Notification of Acceptance
-
-#posters-2-ext:
-#  track: posters
-#  date: April 11, 2018
-#  info: Delayed Notification of Acceptance
-
-#posters-3:
-#  track: posters
-#  date: June 26, 2018 - June 29, 2018
-#  info: Conference
-
-#demos-1:
-#  track: demos
-#  date: March 2, 2018
-#  info: Demo Submission Deadline
-#  important: true
-
-#demos-2:
-#  track: demos
-#  date: April 6, 2018
-#  info: Notification of Acceptance
-
-#demos-3:
-#  track: demos
-#  date: June 26, 2018 - June 29, 2018
-#  info: Conference
-
-#first-review-deadline:
-#  track: main
-#  info: First Review Deadline
-#  date: February 17, 2019
-#  important: true
-
 rebuttal-Start:
   track: main
   info: Rebuttal Start
@@ -83,7 +34,57 @@ rebuttal-deadline:
   track: main
   info: Rebuttal Deadline
   date: February 23, 2019
+  important: true   
+
+#cfw-1:
+#  track: calls
+#  info: Workshop Proposals due
+#  date: January 24, 2019
+#  important: true
+
+posters-1:
+  track: posters
+  date: March 15, 2019
+  info: Poster Submission Deadline
   important: true
+
+posters-2:
+  track: posters
+  date: April 16, 2019
+  info: Notification of Acceptance
+
+#posters-2-ext:
+#  track: posters
+#  date: April 11, 2018
+#  info: Delayed Notification of Acceptance
+
+posters-3:
+  track: posters
+  date: July 2, 2019 - July 5, 2019
+  info: Conference
+
+demos-1:
+  track: demos
+  date: March 15, 2019
+  info: Demo Submission Deadline
+  important: true
+
+demos-2:
+  track: demos
+  date: April 16, 2019
+  info: Notification of Acceptance
+
+demos-3:
+  track: demos
+  date: July 2, 2019 - July 5, 2019
+  info: Conference
+
+#first-review-deadline:
+#  track: main
+#  info: First Review Deadline
+#  date: February 17, 2019
+#  important: true
+
 
 
 main-notification:
