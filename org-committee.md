@@ -30,7 +30,7 @@ committees:
       people:
       - name:        Laura Galluccio
         affiliation: University of Catania
-        homepage:    http://www.diit.unict.it/users/lgalluccio/
+        homepage:    http://www.dieei.unict.it/docenti/laura.galluccio
 
     - role: Submission and Publication Chairs
       people:
@@ -83,7 +83,7 @@ committees:
       people:
       - name:        Laura Galluccio
         affiliation: University of Catania
-        homepage:    http://www.diit.unict.it/users/lgalluccio/
+        homepage:    http://www.dieei.unict.it/docenti/laura.galluccio
 
       - name:        Stefano Basagni
         affiliation: Northeastern University
