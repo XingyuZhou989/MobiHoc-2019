@@ -26,6 +26,36 @@ committees:
         affiliation: KAIST
         homepage:    http://lanada.kaist.ac.kr/~yi/
 
+    - role: Steering Committee
+      people:
+      - name:        Ness B. Shroff
+        affiliation: (Chair), The Ohio State University
+        homepage:    http://newslab.ece.ohio-state.edu/home/
+
+      - name:        Carla Fabiana Chiasserini
+        affiliation: Politecnico di Torino
+        homepage:    https://www.telematica.polito.it/public/faculty/carla-fabiana-chiasserini  
+
+      - name:        Mario Gerla
+        affiliation: University of California, Los Angeles
+        homepage:    http://web.cs.ucla.edu/~gerla/  
+
+      - name:        Sergio Palazzo
+        affiliation: University of Catania
+        homepage:    http://www.diit.unict.it/users/spalazzo/
+
+      - name:        Charles E. Perkins
+        affiliation: WiChorus
+        homepage:    
+
+      - name:        Martha Steenstrup
+        affiliation: Stow Research L.L.C
+        homepage:   
+
+      - name:        R. Srikant
+        affiliation: University of Illinois at Urbana-Champaign
+        homepage:    https://sites.google.com/a/illinois.edu/srikant/
+
     - role: Local Arrangements Chair
       people:
       - name:        Laura Galluccio
