@@ -13,7 +13,8 @@ dates:
       date: May 5, 2019
     - info: Camera ready deadline
       date: May 27, 2019
-
+    - info: Workshop day
+      date: July 2, 2019
 committees:
     - role: General Chairs
       people:
