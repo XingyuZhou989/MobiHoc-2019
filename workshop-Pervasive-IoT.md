@@ -5,7 +5,7 @@ short: PERSIST-IoT
 group: Workshops and Tutorials
 
 dates:
-    - info: Abstract Registration
+    - info: Abstract registration
       date: April 1, 2019
     - info: Submission deadline
       date: April 7, 2019

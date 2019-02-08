@@ -73,7 +73,7 @@
   submenu:
     #- name: Frontiers of Networks
     #  url: /workshop-frontiers.html      
-    - name: Pervasive Systems in the IoT Era
+    - name: Pervasive-IoT
       url: /workshop-Pervasive-IoT.html     
     - name: iFIRE
       url: /workshop-iFIRE.html  
