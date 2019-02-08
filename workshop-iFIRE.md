@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FIrst REsponders network
+title: iFIRE
 short: iFIRE
 group: Workshops and Tutorials
 
@@ -42,7 +42,7 @@ committees:
          affiliation: "University of North Texas, USA"
 ---
 
-## ACM MobiHoc workshop on innovative aerial communication solutions for FIrst REsponders network in emergency scenarios 
+## ACM MobiHoc workshop on innovative aerial communication solutions for FIrst REsponders network in emergency scenarios (iFIRE)
 
 ### [>> Workshop website, call for papers, submission instructions <<](http://ifire.neclab.eu)
 {: style="text-align: center; margin-bottom: 1em;" }

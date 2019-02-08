@@ -12,7 +12,7 @@ dates:
     - info: Acceptance notification
       date: May 5, 2019
     - info: Camera ready deadline
-      date: May 27, 2019
+      date: May 12, 2019
     - info: Workshop day
       date: July 2, 2019
 committees:
@@ -88,7 +88,7 @@ committees:
          affiliation: Istanbul Technical University, Turkey
 ---
 
-## ACM MobiHoc Workshop on Pervasive Systems in the IoT Era
+## ACM MobiHoc Workshop on Pervasive Systems in the IoT Era (PERSIST-IoT)
 
 ### [>> Workshop website, call for papers, submission instructions <<](http://www.grc.upv.es/persist-iot2019/program/)
 {: style="text-align: center; margin-bottom: 1em;" }

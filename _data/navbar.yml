@@ -73,11 +73,13 @@
   submenu:
     #- name: Frontiers of Networks
     #  url: /workshop-frontiers.html      
-    - name: Pervasive Systems in the IoT era
+    - name: Pervasive Systems in the IoT Era
       url: /workshop-Pervasive-IoT.html     
-    - name: FIrst REsponders network
+    - name: iFIRE
       url: /workshop-iFIRE.html  
-    #- name: Call for Workshops
+    - name: TOP-Cars
+      url: /workshop-TOP-Cars.html  
+      #- name: Call for Workshops
     #  url: /cfw.html     
 - name: Calls    
   icon: fa-bullhorn
