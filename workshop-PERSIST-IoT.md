@@ -44,54 +44,55 @@ committees:
          affiliation: AUniversitat Politècnica de València, Spain
     - role: TPC Members
       people:
-       - name: Luca Bedogni 
-         affiliation: Univesity of Bologna, Italy
-       - name: Marica Amadeo  
-         affiliation: University of Reggio Calabria, Italy
-       - name: Marcos Fagundes Caetano 
-         affiliation: University of Brasilia, Brasil
-       - name: Claudia Campolo 
-         affiliation: Universityof Reggio Calabria, Italy
-       - name: Marco Di Felice 
-         affiliation: University of Bologna, Italy
-       - name: Hassan Ghasemzadeh 
-         affiliation: Washington State University, USA
-       - name: Xiping Hu 
-         affiliation: The University of British Columbia, Canada
-       - name: Antonio Iera 
-         affiliation: University of Reggio Calabria, Italy
-       - name: Hao Liang 
-         affiliation: University of Alberta, Canada
        - name: Annamaria Mandalari 
-         affiliation: Universidad Carlos III de Madrid (UC3M), Spain
-       - name: Pietro Manzoni 
-         affiliation: Universitat Politecnica de Valencia, Spain
-       - name: Liang Ma 
-         affiliation: IBM T. J. Watson Research Center, NY, USA
-       - name: Nathalie Mitton 
-         affiliation: Inria Lille-Nord Europe / FUN, France
+         affiliation: Universidad Carlos III de Madrid (UC3M), Spain    
+       - name: Antoine Gallais
+         affiliation: Inria Lille - Nord Europe, University of Strasbourg, France
+       - name: Antoine O. Berthez
+         affiliation: Ecole Supèrieure d'Electricité (SUPELEC), France         
        - name: Antonella Molinaro 
          affiliation: University of Reggio Calabria, Italy
+       - name: Antonino Orsino 
+         affiliation: Ericsson, Helsinki Area, Finland
+       - name: Antonio Iera
+         affiliation: University of Reggio Calabria, Italy
+       - name: Chaker Kerrache
+         affiliation: University of Ghardaia, Algeria
+       - name: Chih-Hang Wang
+         affiliation: Academia Sinica, Taiwan (R.O.C.)
+       - name: Claudia Campolo 
+         affiliation: Universityof Reggio Calabria, Italy         
        - name: Enrico Natalizio 
-         affiliation: Compiègne Technology University, France
-       - name: Sema Oktug 
+         affiliation: LORIA, Université de Lorraine, France
+       - name: Jian-Jhih Kuo  
+         affiliation: National Chung Cheng University, Taiwan (R.O.C.)
+       - name: Juan Carlos Cano
+         affiliation: Universitat Politècnica de València, Spain              
+       - name: Luca Bedogni 
+         affiliation: Univesity of Bologna, Italy
+       - name: Marco Di Felice 
+         affiliation: University of Bologna, Italy
+       - name: Marica Amadeo  
+         affiliation: University of Reggio Calabria, Italy
+       - name: Massimo Condoluci
+         affiliation: Ericsson AB, Kista, Sweden
+       - name: Nathalie Mitton
+         affiliation: Inria Lille-Nord Europe / FUN, France
+       - name: Nicola Zema
+         affiliation: LRI (Laboratoire de Recherche en Informatique), Université Paris-Sud
+       - name: Oscar Alvear
+         affiliation: University of Cuenca, Ecuador
+       - name: Sema Oktug
          affiliation: Istanbul Technical University, Turkey
-       - name: Al-Sakib Khan Pathan 
-         affiliation: International Islamic University (IIUM),Kuala Lumpur, Malaysia
-       - name: Pratap Kumar Sahu 
-         affiliation: University of Montreal, Canada
-       - name: Anna Maria Vegni 
-         affiliation: University of Roma Tre, Italy
-       - name: Ranga Rao Venkatesha Prasad 
-         affiliation: EWI – TU Delft, The Netherlands
-       - name: Yusuf Yaslan
-         affiliation: Istanbul Technical University, Turkey
+
 ---
 
 ## ACM MobiHoc Workshop on Pervasive Systems in the IoT Era (PERSIST-IoT)
 
-### [>> Workshop website, call for papers, submission instructions <<](http://www.grc.upv.es/persist-iot2019/program/)
+### [>> Workshop website, call for papers, submission instructions <<](http://www.grc.upv.es/persist-iot2019/)
 {: style="text-align: center; margin-bottom: 1em;" }
+
+
 
 
 {% include program-online.html type="ws-mobile-health" %}
@@ -121,6 +122,7 @@ Topics of interests could be:
 - Cyber-physical-social security for pervasive systems
 - Social-based routing protocols and architectures for pervasive systems
 - Testbeds, applications, business, standards, and social issues
+
 
 
 {% include dates2.html dates=page.dates %}

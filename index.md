@@ -25,8 +25,26 @@ In addition, it includes workshops that are focused on areas of emerging interes
 
 {% include dates.html %}
 
-## With Generous Support From
+<!--## With Generous Support From-->
 
+### Golden Sponsors
+<div class="sponsors">
+  <div class="sponsor">
+      <a href="https://nextworks.com/">{% asset logos/logo-nextworks.png %}</a>
+  </div>
+  <div class="sponsor">
+      <a href="https://www.adlinktech.com/en/index.aspx">{% asset logos/Logo-With-Tagline1.png %}</a>
+  </div>
+</div>
+
+### Silver Sponsor
+
+<div class="sponsors">
+  <div class="sponsor">
+      <a href="http://www.imdea.org/">{% asset logos/imdea-networks-left-dark-background-high-res.png %}</a>
+  </div>
+</div>
+<!--
 <div class="sponsors">
   <div class="sponsor">
       <a href="https://www.acm.org">{% asset logos/acm.png %}</a>
@@ -34,7 +52,6 @@ In addition, it includes workshops that are focused on areas of emerging interes
   <div class="sponsor">
       <a href="https://www.sigmobile.org">{% asset logos/sigmobile.gif %}</a>
   </div>
-<!--
   <div class="sponsor">
     <a href="http://www.nsf.gov"><img src="images/logos/nsf.gif" /></a>
   </div>
@@ -53,7 +70,8 @@ In addition, it includes workshops that are focused on areas of emerging interes
   <div class="sponsor">
       <a href="http://www.ccs-labs.org"><img src="images/logos/ccs.png" /></a>
   </div>
+  </div>
 -->
-</div>
+
 
 {% include photoswipe.html %}
