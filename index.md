@@ -27,17 +27,19 @@ In addition, it includes workshops that are focused on areas of emerging interes
 
 <!--## With Generous Support From-->
 
-### Golden Sponsors
+### Corporate Sponsors
+
+Golden Sponsors
 <div class="sponsors">
   <div class="sponsor">
-      <a href="https://nextworks.com/">{% asset logos/logo-nextworks.png %}</a>
+      <a href="https://nextworks.com/">{% asset logos/logo-nextworks.png align="right" height="50 px" %}</a>
   </div>
   <div class="sponsor">
-      <a href="https://www.adlinktech.com/en/index.aspx">{% asset logos/Logo-With-Tagline1.png %}</a>
+      <a href="https://www.adlinktech.com/en/index.aspx">{% asset logos/Logo-With-Tagline1.png height="60 px" %}</a>
   </div>
 </div>
 
-### Silver Sponsor
+Silver Sponsor
 
 <div class="sponsors">
   <div class="sponsor">
