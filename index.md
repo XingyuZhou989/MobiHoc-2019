@@ -29,11 +29,11 @@ In addition, it includes workshops that are focused on areas of emerging interes
 
 ### Corporate Sponsors
 
-Golden Sponsors
+Gold Sponsors
 <div class="sponsors">
-  <div class="sponsor">
-      <a href="https://nextworks.com/">{% asset logos/logo-nextworks.png align="right" height="50 px" %}</a>
-  </div>
+    <div class="sponsor">
+      <a href="http://www.imdea.org/">{% asset logos/imdea-networks-left-dark-background-high-res.png %}</a>
+  </div>  
   <div class="sponsor">
       <a href="https://www.adlinktech.com/en/index.aspx">{% asset logos/Logo-With-Tagline1.png height="60 px" %}</a>
   </div>
@@ -43,7 +43,7 @@ Silver Sponsor
 
 <div class="sponsors">
   <div class="sponsor">
-      <a href="http://www.imdea.org/">{% asset logos/imdea-networks-left-dark-background-high-res.png %}</a>
+      <a href="https://nextworks.com/">{% asset logos/logo-nextworks.png align="right" height="50 px" %}</a>
   </div>
 </div>
 <!--
