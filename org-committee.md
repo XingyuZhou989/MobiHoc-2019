@@ -132,7 +132,7 @@ committees:
     - role: Corporate Sponsorship Chairs
       people:
       - name:        Marco Ajmone Marsan
-        affiliation: Politecnico di Torino
+        affiliation: Politecnico di Torino & IMDEA Networks Institute
         homepage:    https://www.telematica.polito.it/public/faculty/marco-ajmone-marsan
       - name:        Ting He
         affiliation: Penn State University
