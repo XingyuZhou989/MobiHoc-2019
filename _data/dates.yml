@@ -32,8 +32,8 @@ rebuttal-Start:
 
 rebuttal-deadline:
   track: main
-  info: Rebuttal Deadline
-  date: February 26, 2019
+  info: Rebuttal Deadline (2:59pm EST)
+  date: February 26, 2019 
   important: true   
 
 #cfw-1:

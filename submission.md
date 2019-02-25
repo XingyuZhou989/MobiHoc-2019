@@ -37,3 +37,23 @@ The goal of this rebuttal stage is to give the PC members an opportunity to get 
 We strongly suggest that authors do not argue against comments expressing a subjective opinion (e.g. reviewer claims that the novel contribution is modest), as this rarely sways the reviewers. We highlight that in any case the text of your response is limited to one page using the provided template file.
 
 Your response will be seen by all PC members who have access to the discussion of your paper, so please try to be polite and constructive.
+
+You can remove the copyright information on the rebuttal by using the following commands in Latex:  
+
+\settopmatter{printacmref=false} \\
+\setcopyright{none} \\
+\renewcommand\footnotetextcopyrightpermission[1]{}
+
+### Questions & Answers
+
+Question - Are we allowed to remove the copyright information on the rebuttal?
+
+Answer - You can remove the copyright information on the rebuttal by using the following commands in Latex:  
+
+\settopmatter{printacmref=false} \\
+\setcopyright{none} \\
+\renewcommand\footnotetextcopyrightpermission[1]{}\\
+
+Question -  in the rebuttal, are we allowed to point to a PDF with a new version of our paper, replying to the reviewer's comments, and with the proposed modifications marked in red?  Or must the review be self-contained, without external links?
+
+Answer - Also, the rebuttal has to be self-contained and cannot point to any external documents or sites. Additionally, since the review was for the draft that was submitted, having a newer version is more like a new submission which would neither be fair (to the others) nor acceptable (for the conference). We hope you understand.
