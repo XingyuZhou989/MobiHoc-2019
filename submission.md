@@ -38,11 +38,6 @@ We strongly suggest that authors do not argue against comments expressing a subj
 
 Your response will be seen by all PC members who have access to the discussion of your paper, so please try to be polite and constructive.
 
-You can remove the copyright information on the rebuttal by using the following commands in Latex:  
-
-\settopmatter{printacmref=false} \\
-\setcopyright{none} \\
-\renewcommand\footnotetextcopyrightpermission[1]{}
 
 ### Questions & Answers
 
@@ -52,7 +47,7 @@ Answer - You can remove the copyright information on the rebuttal by using the f
 
 \settopmatter{printacmref=false} \\
 \setcopyright{none} \\
-\renewcommand\footnotetextcopyrightpermission[1]{}\\
+\renewcommand\footnotetextcopyrightpermission[1]{}
 
 Question -  in the rebuttal, are we allowed to point to a PDF with a new version of our paper, replying to the reviewer's comments, and with the proposed modifications marked in red?  Or must the review be self-contained, without external links?
 
