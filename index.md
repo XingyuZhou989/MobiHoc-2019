@@ -32,7 +32,7 @@ In addition, it includes workshops that are focused on areas of emerging interes
 Gold Sponsors
 <div class="sponsors">
     <div class="sponsor">
-      <a href="http://www.imdea.org/">{% asset logos/imdea-networks-left-clear-background-high-res.png %}</a>
+      <a href="https://www.networks.imdea.org/">{% asset logos/imdea-networks-left-clear-background-high-res.png %}</a>
   </div>  
   <div class="sponsor">
       <a href="https://www.adlinktech.com/en/index.aspx">{% asset logos/Logo-With-Tagline1.png height="60 px" %}</a>
