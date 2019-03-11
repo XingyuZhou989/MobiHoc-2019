@@ -44,8 +44,8 @@ committees:
          affiliation: AUniversitat Politècnica de València, Spain
     - role: TPC Members
       people:
-       - name: Annamaria Mandalari 
-         affiliation: Universidad Carlos III de Madrid (UC3M), Spain    
+       - name: Anna Maria Mandalari 
+         affiliation: Imperial College London, UK    
        - name: Antoine Gallais
          affiliation: Inria Lille - Nord Europe, University of Strasbourg, France
        - name: Antoine O. Berthez
