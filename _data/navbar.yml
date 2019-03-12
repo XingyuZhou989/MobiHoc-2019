@@ -1,9 +1,9 @@
 - name: Welcome
   url: /
   icon: fa-home
-- name: Supporters
-  url: /supporters.html
-  icon: fa-handshake-o
+#- name: Supporters
+#  url: /supporters.html
+#  icon: fa-handshake-o
 - name: Committees
   icon: fa-users
   submenu:
@@ -49,11 +49,11 @@
       url: /submission.html
     - name: Camera-Ready Instructions
       url: /camera-ready.html
-    - name: Author Registration Policy
+    - name: Registration 
       url: /policy-author-registration.html
     - name: No-Show Policy
       url: /policy-no-show.html
-- name: Attendee Information
+- name: Local Information
   icon: fa-bullhorn
   submenu:
     # - name: <del>Call for Travel Grants</del>
