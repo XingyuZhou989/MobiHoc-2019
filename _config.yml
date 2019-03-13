@@ -4,7 +4,7 @@ destination: ./_site
 plugins_dir: ./_plugins
 highlighter: rouge
 markdown: kramdown
-exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', '.sass-cache', '.asset-cache']
+exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', '.sass-cache', '.asset-cache', '.travis.d']
 
 plugins:
   - jekyll-assets
@@ -22,16 +22,18 @@ url: "https://www.sigmobile.org"
 
 ## Note. Uncomment and update spreadsheet parameters to enable pulling program
 ##       data from Google Sheet(s)
-# program:
+
 #   # If the specified file doesn't exist, there will be command-line dialog to create it
 #   # (Currently hardcoded for a dummy robot.mcrobot.jr@gmail.com account permissions)
-#   google_client_id: .travis.d/google_client_id.json
+program:
+  google_client_id: .travis.d/google_client_id.json
 #   # Google spreadsheet with the conference data
-#   spreadsheet:
-#     - "1J-lppI-_qcclJbmP3DN_xhgKnJnL6S344BUQQ9JbvIE" # main
+  spreadsheet:
+    - "1wPsGgoY2KBHr9NECwPbB9RnnVMAue5WXI-CwkI0mevU" # main
 
 assets:
-  cache: .sass-cache
+  caching:
+    path: .sass-cache/assets
   features:
     automatic_img_size: false
 
