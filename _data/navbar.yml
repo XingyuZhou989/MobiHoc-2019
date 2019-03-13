@@ -1,9 +1,9 @@
 - name: Welcome
   url: /
   icon: fa-home
-- name: Supporters
-  url: /supporters.html
-  icon: fa-handshake-o
+#- name: Supporters
+#  url: /supporters.html
+#  icon: fa-handshake-o
 - name: Committees
   icon: fa-users
   submenu:
@@ -49,11 +49,11 @@
       url: /submission.html
     - name: Camera-Ready Instructions
       url: /camera-ready.html
-    - name: Author Registration Policy
+    - name: Registration 
       url: /policy-author-registration.html
     - name: No-Show Policy
       url: /policy-no-show.html
-- name: Attendee Information
+- name: Local Information
   icon: fa-bullhorn
   submenu:
     # - name: <del>Call for Travel Grants</del>
@@ -71,20 +71,30 @@
 - name: Workshops
   icon: fa-bullhorn
   submenu:
-    - name: Call for Workshops
-      url: /cfw.html    
+    #- name: Frontiers of Networks
+    #  url: /workshop-frontiers.html      
+    - name: PERSIST-IoT
+      url: /workshop-PERSIST-IoT.html     
+    - name: iFIRE
+      url: /workshop-iFIRE.html  
+    - name: TOP-Cars
+      url: /workshop-TOP-Cars.html  
+    - name: Secure-Cities
+      url: /workshop-Secure-Cities.html  
+      
+      #- name: Call for Workshops
+    #  url: /cfw.html     
 - name: Calls    
   icon: fa-bullhorn
   submenu:  
     - name: <del>Call for Papers</del>
       url: /cfp.html
-    - name: Call for Workshops
+    - name: <del>Call for Workshops</del>
       url: /cfw.html   
     - name: Call for Posters
       url: /cf-posters.html
     - name: Call for Demos
       url: /cf-demos.html    
-
 - name: Anti-Harassment Policy
   url: /policy-anti-harassment.html
   icon: fa-book
