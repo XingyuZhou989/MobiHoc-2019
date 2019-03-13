@@ -15,7 +15,7 @@ hotels:
   map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.545421118681!2d15.134358315416778!3d37.542211679802485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1313fb79d73a3ec9%3A0x47b27df5bd303097!2sFour+Points+by+Sheraton+Catania+Hotel+%26+Conference+Center!5e0!3m2!1sen!2sus!4v1538685222875"
   image: fourpoints.png
   expanded: true
-  note: "To get the agreed conference rate, please download, fill, and sign the hotel reservation form and send it to <a href=\"mailto:booking@fourpointscatania.com\">booking@fourpointscatania.com</a>."
+  note: "To get the agreed conference rate, please download, fill, and sign the <a href=\"https://www.sigmobile.org/mobihoc/2019/Form_MobiHoc_2019_eng.pdf\">hotel reservation form</a>  and send it to <a href=\"mailto:booking@fourpointscatania.com\">booking@fourpointscatania.com</a>."
 
 - id: Acicastello
   name: Grand Hotel Baia Verde, Acicastello
