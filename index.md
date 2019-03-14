@@ -11,8 +11,12 @@ MobiHoc is a premier international symposium dedicated to addressing challenges 
 
 It will bring together researchers and practitioners from a broad spectrum of networking research to present the most up-to-date results and achievements in the field.
 
-MobiHoc 2019 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel.
-In addition, it includes workshops that are focused on areas of emerging interest.
+<!--MobiHoc 2019 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel.
+In addition, it includes workshops that are focused on areas of emerging interest.-->
+
+MobiHoc 2019 will feature a highly selective technical program, three distinguished keynote addresses by Prof. Mihaela Van Der Schaar, Prof. Edward Knightly and Prof. Jack Stankovic, and an exciting panel. In addition, it includes workshops that are focused on areas of emerging interest. More information on MobiHoc Keynotes can be find <a href="keynotes.html">Here</a>.
+
+<!--and Workshops , respectively-->
 
 {% include news.html %}
 
