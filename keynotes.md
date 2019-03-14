@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Program Highlights
+title: Keynote Speakers
 group: Program
 
 ---
 
-# Keynotes
+# Keynote Speakers
 
 
-{% include program-online.html type="program" %}
+{% include program-online.html type="keynotes" %}
 
