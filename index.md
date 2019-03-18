@@ -50,7 +50,9 @@ Silver Sponsor
       <a href="https://nextworks.com/">{% asset logos/logo-nextworks.png align="right" height="50 px" %}</a>
   </div>
 </div>
-<!--
+
+### With Generous Support From
+
 <div class="sponsors">
   <div class="sponsor">
       <a href="https://www.acm.org">{% asset logos/acm.png %}</a>
@@ -58,6 +60,13 @@ Silver Sponsor
   <div class="sponsor">
       <a href="https://www.sigmobile.org">{% asset logos/sigmobile.gif %}</a>
   </div>
+
+  <div class="sponsor">
+      <a href="https://www.unict.it/en/">{% asset logos/unict.png %}</a>
+  </div>  
+
+</div>
+<!--  
   <div class="sponsor">
     <a href="http://www.nsf.gov"><img src="images/logos/nsf.gif" /></a>
   </div>

@@ -46,7 +46,7 @@ committees:
       - name: Chee Wei Tan
         affiliation: HongKong City University
         homepage:    
-      - name: Chul-ho Lee
+      - name: Chul-Ho Lee
         affiliation: Florida Institute of Technology
         homepage:   
       - name: David Starobinski
