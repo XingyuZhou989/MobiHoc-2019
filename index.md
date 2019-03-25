@@ -62,6 +62,10 @@ Silver
   </div>
 
   <div class="sponsor">
+      <a href="https://europe.acm.org">{% asset logos/acm_europe align="right" height="60 px" %}</a>
+  </div>
+
+  <div class="sponsor">
       <a href="https://www.unict.it/en/">{% asset logos/unict.png %}</a>
   </div>  
 
