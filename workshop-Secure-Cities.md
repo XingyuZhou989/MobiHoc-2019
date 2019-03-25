@@ -64,7 +64,7 @@ committees:
 
 ## 2nd ACM MobiHoc Workshop on Networking and Cybersecurity for Smart Cities (Securing Smart Cities)
 
-
+### [>> Workshop submission website <<](http://mobihoc19securecities.hotcrp.com)
 
 
 {% include program-online.html type="ws-mobile-health" %}
