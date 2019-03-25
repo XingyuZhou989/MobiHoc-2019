@@ -31,9 +31,9 @@ MobiHoc 2019 will feature a highly selective technical program, three distinguis
 
 <!--## With Generous Support From-->
 
-### Corporate Sponsors
+### Corporate Supporters
 
-Gold Sponsors
+Gold 
 <div class="sponsors">
     <div class="sponsor">
       <a href="https://www.networks.imdea.org/">{% asset logos/imdea-networks-left-clear-background-high-res.png %}</a>
@@ -43,7 +43,7 @@ Gold Sponsors
   </div>
 </div>
 
-Silver Sponsor
+Silver 
 
 <div class="sponsors">
   <div class="sponsor">
@@ -51,7 +51,7 @@ Silver Sponsor
   </div>
 </div>
 
-### With Generous Support From
+### Sponsors
 
 <div class="sponsors">
   <div class="sponsor">
