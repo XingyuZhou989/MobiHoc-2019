@@ -66,14 +66,16 @@ Silver
   </div>
 
   <div class="sponsor">
+    <a href="http://www.nsf.gov">{% asset logos/nsf.gif %}</a>
+  </div>
+
+  <div class="sponsor">
       <a href="https://www.unict.it/en/">{% asset logos/unict.png %}</a>
   </div>  
 
 </div>
 <!--  
-  <div class="sponsor">
-    <a href="http://www.nsf.gov"><img src="images/logos/nsf.gif" /></a>
-  </div>
+
   <div class="sponsor">
       <a href="https://sfb901.uni-paderborn.de"><img src="images/logos/sfb.png" /></a>
   </div>
