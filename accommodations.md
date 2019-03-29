@@ -22,10 +22,11 @@ hotels:
   amenities: [Free Wifi, Free Parking]
   address: Via Angelo Musco, 8/10, Aci Castello, Catania, 95021, Italy
   url: https://www.baiaverde.it/en/
-  reservation-link: https://www.hotels.com/ho242848/?q-check-out=2019-07-06&q-check-in=2019-07-03
+  #reservation-link: https://www.hotels.com/ho242848/?q-check-out=2019-07-06&q-check-in=2019-07-03
   map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1581.7967858874256!2d15.133151858215141!3d37.54107689495072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x1313fb7bdfc29aa7%3A0x89f1c059904c2aab!2sGrand+Hotel+Baia+Verde%2C+Via+Angelo+Musco%2C+Aci+Castello%2C+Province+of+Catania%2C+Italy!3m2!1d37.5399421!2d15.132444699999999!4m5!1s0x1313fb79d73a3ec9%3A0x47b27df5bd303097!2sFour+Points+by+Sheraton+Catania+Hotel+%26+Conference+Center%2C+Via+Antonello+da+Messina+45+Aci+Castello%2C+95021+Catania+CT%2C+Italy!3m2!1d37.542211699999996!2d15.136547!5e0!3m2!1sen!2sus!4v1538690420866"
   image: grand-hotel-baia-verde.jpg
   expanded: true
+  note: "A limited number of rooms are currently available at Grand Hotel Baia Verde from July 1st (checkin) to July 5 (checkout date). The cost is 114 euros per night for single rooms and 144 euros per night for double rooms, both prices include breakfast. Please email the Baia Verde hotel at  <a href=\"mailto:meeting@baiaverde.it\">meeting@baiaverde.it</a> at the attention of Mrs. Maione, referring to the conference ACM MobiHoc 2019 for booking a room."
 
 - id: zeus
   name: Zeus Residence Hotel
