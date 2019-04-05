@@ -13,13 +13,9 @@ dates:
       date: TBD
 
 committees:
-    - role: Workshop Co-Chairs
-      people:
-       - name:        Srinivas Shakkottai
-         affiliation: "Texas A&M University"
-         email:       sshakkot@tamu.edu
 
-    - role: Program Committee
+
+    - role: 
       people:
        - name: Longbo Huang
          affiliation: Tsinghua University
@@ -34,7 +30,7 @@ committees:
 
 ## 7th ACM MobiHoc Workshop on the Frontiers of Networks: Theory and Algorithms
 
-### [>> Workshop website, call for papers, submission instructions <<](https://sites.google.com/tamu.edu/mobihoc-frontiers-2019/)
+### [>> Workshop website <<](https://sites.google.com/tamu.edu/mobihocfrontiers2019/)
 {: style="text-align: center; margin-bottom: 1em;" }
 
 ### Program
@@ -42,7 +38,6 @@ committees:
 {% include program-online.html type="ws-frontiers" %}
 
 
-{% include dates2.html dates=page.dates %}
 
 <div class="row">
   <div class="col-sm-6 col-sm-offset-3">

@@ -6,7 +6,7 @@ group: Workshops and Tutorials
 
 dates:
     - info: Submission deadline
-      date: April 1, 2019
+      date: April 8, 2019
     - info: Acceptance notification
       date: May 5, 2019
     - info: Camera ready deadline

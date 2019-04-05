@@ -40,8 +40,10 @@
 - name: Program
   icon: fa-bar-chart
   submenu:
-    - name: keynotes
+    - name: Keynotes
       url: /keynotes.html
+    - name: Accepted aapers
+      url: /accepted-papers.html  
 - name: Author Information
   icon: fa-bullhorn
   submenu:
@@ -73,8 +75,8 @@
 - name: Workshops
   icon: fa-bullhorn
   submenu:
-    #- name: Frontiers of Networks
-    #  url: /workshop-frontiers.html      
+    - name: Frontiers
+      url: /workshop-frontiers.html      
     - name: PERSIST-IoT
       url: /workshop-PERSIST-IoT.html     
     - name: iFIRE

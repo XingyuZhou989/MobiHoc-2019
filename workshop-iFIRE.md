@@ -16,7 +16,7 @@ dates:
     - info: Workshop day
       date: July 2, 2019
 committees:
-    - role: Workshop Chairs
+    - role: Workshop CO-Chairs
       people:
        - name:        Vincenzo Sciancalepore
          affiliation: "NEC Laboratories Europe GmbH, Germany"
@@ -30,11 +30,11 @@ committees:
        - name:        Toktam Mahmoodi
          affiliation: "King's College London, UK"
          email:       toktam.mahmoodi@kcl.ac.uk
-    - role: Technical Program Committee
+    - role: TPC Chairs
       people:
        - name:        Maurizio Magarini
          affiliation: "Politecnico di Milano, Italy"
-       - name:        CMuhammad Mahtab Alam
+       - name:        Muhammad Mahtab Alam
          affiliation: "Tallin University of Technology, Estonia"
        - name:        Xavier Costa-Perez
          affiliation: "NEC Laboratories Europe GmbH, Germany"

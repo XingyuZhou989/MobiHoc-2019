@@ -17,19 +17,25 @@ description: "MobiHoc 2019, the Twentieth International Symposium on Mobile Ad H
 baseurl: "/mobihoc/2019"
 url: "https://www.sigmobile.org"
 
-# google:
-#   - analytics: UA-TBD....
+google:
+  - analytics: UA-83529610-3
 
 ## Note. Uncomment and update spreadsheet parameters to enable pulling program
 ##       data from Google Sheet(s)
 
 #   # If the specified file doesn't exist, there will be command-line dialog to create it
 #   # (Currently hardcoded for a dummy robot.mcrobot.jr@gmail.com account permissions)
+#keynote:
+#  google_client_id: .travis.d/google_client_id.json
+#   # Google spreadsheet with the conference data
+#  spreadsheet:
+#    - "1wPsGgoY2KBHr9NECwPbB9RnnVMAue5WXI-CwkI0mevU" # main
+
 program:
   google_client_id: .travis.d/google_client_id.json
 #   # Google spreadsheet with the conference data
   spreadsheet:
-    - "1wPsGgoY2KBHr9NECwPbB9RnnVMAue5WXI-CwkI0mevU" # main
+    - "1qzsK27dGioaDXXW0BElQiROY2E4cOf9pxAr32tbPEnw" # main    
 
 assets:
   caching:
