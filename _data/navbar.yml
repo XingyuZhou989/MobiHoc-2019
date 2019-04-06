@@ -44,6 +44,8 @@
       url: /keynotes.html
     - name: Accepted papers
       url: /accepted-papers.html  
+    - name: Workshops
+      url: /workshops.html    
 - name: Author Information
   icon: fa-bullhorn
   submenu:
