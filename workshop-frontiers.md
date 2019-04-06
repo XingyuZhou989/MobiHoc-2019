@@ -35,9 +35,6 @@ committees:
 
 ### Program
 
-{% include program-online.html type="ws-frontiers" %}
-
-
 
 <div class="row">
   <div class="col-sm-6 col-sm-offset-3">

@@ -42,7 +42,7 @@
   submenu:
     - name: Keynotes
       url: /keynotes.html
-    - name: Accepted aapers
+    - name: Accepted papers
       url: /accepted-papers.html  
 - name: Author Information
   icon: fa-bullhorn
