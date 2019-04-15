@@ -48,8 +48,8 @@ committees:
          affiliation: Imperial College London, UK    
        - name: Antoine Gallais
          affiliation: Inria Lille - Nord Europe, University of Strasbourg, France
-       - name: Antoine O. Berthez
-         affiliation: Ecole Supèrieure d'Electricité (SUPELEC), France         
+       - name: Antoine O. Berthet
+         affiliation: CentraleSupélec, Université Paris-Saclay, France      
        - name: Antonella Molinaro 
          affiliation: University of Reggio Calabria, Italy
        - name: Antonino Orsino 

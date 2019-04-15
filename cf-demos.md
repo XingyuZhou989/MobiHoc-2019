@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call for Demos
+title: <del>Call for Demos</del>
 group: Calls
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workshops
-group: Conference
+group: Program
 
 ---
 

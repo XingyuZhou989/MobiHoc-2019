@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accepted Papers
-group: Conference
+group: Program
 
 ---
 

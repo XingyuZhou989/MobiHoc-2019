@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Camera-Ready Instructions
-group: Calls
+group: Author Information
 
 ---
 
@@ -23,6 +23,6 @@ Please follow these instructions when preparing your camera-ready manuscript.
 
 4. Page numbers should not appear in the camera ready PDF.
 
-5. The page limit for publications in the main conference is 10 pages. 
+5. The page limit for publications in the main conference is 10 pages. The limit for poster publications is 2 pages, and for workshop publications is 6 pages. 
 
 6. You PDF submission should have all fonts embedded. If you are unsure about how to check for this, see: [http://www.acm.org/binaries/content/assets/publications/word-to-pdf-instructions-.txt](http://www.acm.org/binaries/content/assets/publications/word-to-pdf-instructions-.txt).

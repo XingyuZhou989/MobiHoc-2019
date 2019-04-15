@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call for Posters
+title: <del>Call for Posters</del>
 group: Calls
 
 ---
