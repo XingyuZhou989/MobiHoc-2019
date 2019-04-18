@@ -68,11 +68,16 @@ Silver
   <div class="sponsor">
     <a href="http://www.nsf.gov">{% asset logos/nsf.gif %}</a>
   </div>
+</div>
+
+<div class="sponsors">
+  <div class="sponsor">
+      <a href="https://www.unict.it/en/">{% asset logos/cnit.png %}</a>
+  </div>  
 
   <div class="sponsor">
       <a href="https://www.unict.it/en/">{% asset logos/unict.png %}</a>
   </div>  
-
 </div>
 <!--  
 
