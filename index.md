@@ -72,7 +72,7 @@ Silver
 
 <div class="sponsors">
   <div class="sponsor">
-      <a href="https://www.unict.it/en/">{% asset logos/cnit.png %}</a>
+      <a href="https://www.cnit.it/en/">{% asset logos/cnit.png %}</a>
   </div>  
 
   <div class="sponsor">
