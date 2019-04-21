@@ -7,11 +7,11 @@ group: Author Information
 
 # {{ page.title }}
 
-These instructions apply to all accepted publications at ACM MobiHoc 2019, including posters and workshops.
+These instructions apply to all accepted publications at ACM MobiHoc 2019, including posters, demos, and workshops.
 **The deadline for the upload of your camera-ready PDF is 23:59 PM Pacific time, April 25, 2019.**
 Use the HotCRP submission website to upload your camera-ready.
 
-At least one author of each paper must make a full registration for the conference prior to the camera-ready upload. The registration is now open, and the registration information is available at [https://www.sigmobile.org/mobihoc/2019/registration.html](https://www.sigmobile.org/mobihoc/2019/registration.html). Once the registration is completed, please send an email to the Registration Chair, Gaia Maselli [maselli@di.uniroma1.it](mailto:rmaselli@di.uniroma1.it), to confirm the registration, with paper number, paper title, and the registered author. We need to verify the name of the author who is registered for each paper.
+At least one author of each paper must make a **full registration** for the conference prior to the camera-ready upload. The registration is now open, and the registration information is available at [https://www.sigmobile.org/mobihoc/2019/registration.html](https://www.sigmobile.org/mobihoc/2019/registration.html). Once the registration is completed, please send an email to the Registration Chair, Gaia Maselli [maselli@di.uniroma1.it](mailto:rmaselli@di.uniroma1.it), to confirm the registration, with paper number, paper title, and the registered author. We need to verify the name of the author who is registered for each paper.
 
 Please follow these instructions when preparing your camera-ready manuscript.
 
@@ -23,6 +23,6 @@ Please follow these instructions when preparing your camera-ready manuscript.
 
 4. Page numbers should not appear in the camera ready PDF.
 
-5. The page limit for publications in the main conference is 10 pages. The limit for poster publications is 2 pages, and for workshop publications is 6 pages. 
+5. The page limit for publications in the main conference is 10 pages. The limit for poster and demo publications is 2 pages, and for workshop publications is 6 pages.. 
 
 6. You PDF submission should have all fonts embedded. If you are unsure about how to check for this, see: [http://www.acm.org/binaries/content/assets/publications/word-to-pdf-instructions-.txt](http://www.acm.org/binaries/content/assets/publications/word-to-pdf-instructions-.txt).
