@@ -44,6 +44,8 @@
       url: /keynotes.html
     - name: Accepted papers
       url: /accepted-papers.html  
+    - name: Posters and Demos
+      url: /posters-demos.html    
     - name: Workshops
       url: /workshops.html    
 - name: Author Information
@@ -101,6 +103,9 @@
       url: /cf-posters.html
     - name: Call for Demos
       url: /cf-demos.html    
+    - name: Students Travel Grants
+      url: /student-travel-grant.html
+
 - name: Anti-Harassment Policy
   url: /policy-anti-harassment.html
   icon: fa-book

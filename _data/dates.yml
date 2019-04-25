@@ -72,12 +72,10 @@ demos-1:
 demos-2:
   track: demos
   date: April 16, 2019
-  info: Notification of Acceptance
+  info: Notification of Acceptance 
 
-demos-3:
-  track: demos
-  date: July 2, 2019 - July 5, 2019
-  info: Conference
+
+
 
 #first-review-deadline:
 #  track: main
@@ -92,6 +90,12 @@ main-notification:
   info: Notification of Acceptance
   date: March 29, 2019
   important: true
+
+STG:
+  track: STG
+  info: Student Travel Grant Deadline
+  date: May 13, 2019 
+  important: true      
 
 # main-due:
 #   track: main
