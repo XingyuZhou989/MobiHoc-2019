@@ -25,7 +25,7 @@ committees:
 
 Students travel grants are available thanks to the generous support of NSF and ACM SIGMOBILE. Deadline for applications is **May 13th, 2019**. To identify whether you qualify please check in detail the information on the two kinds of grants below.
 
-<a href="STG-NSF.html">NSF Student Travel Grants</a>
+<a href="STG-NSF.html">NSF Travel Grants</a>
 
 <a href="STG-ACM-SIGMOBILE.html">ACM SIGMOBILE Student Travel Grants</a>
 

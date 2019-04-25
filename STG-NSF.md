@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NSF Student Travel Grants 
+title: NSF Travel Grants 
 group: calls
 
 ---
