@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Travel Grants
+title:  Travel Grants
 group: Calls
 
 dates:
