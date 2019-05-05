@@ -109,3 +109,7 @@
 - name: Anti-Harassment Policy
   url: /policy-anti-harassment.html
   icon: fa-book
+
+- name: Registration 
+  url: /registration.html
+  icon: fa-book  
