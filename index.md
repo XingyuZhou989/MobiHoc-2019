@@ -49,7 +49,13 @@ Silver
   <div class="sponsor">
       <a href="https://nextworks.com/">{% asset logos/logo-nextworks.png align="right" height="50 px" %}</a>
   </div>
+
+  <div class="sponsor">
+      <a href="https://www.st.com/content/st_com/en.html">{% asset logos/RS82_st_bloc_marque_qi_v.jpg align="right" height="150 px" %}</a>
+  </div>
 </div>
+
+
 
 ### Sponsors
 

@@ -87,8 +87,8 @@
       url: /workshop-iFIRE.html  
     - name: TOP-Cars
       url: /workshop-TOP-Cars.html  
-    - name: Secure-Cities
-      url: /workshop-Secure-Cities.html  
+    #- name: Secure-Cities
+    #  url: /workshop-Secure-Cities.html  
       
       #- name: Call for Workshops
     #  url: /cfw.html     

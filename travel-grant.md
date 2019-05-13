@@ -8,7 +8,7 @@ dates:
       date: May 13, 2019
 
 committees:
-    - role: Student Travel Grant Chair
+    - role:  Travel Grant Chairs
       people:
       - name:        Violet Syrotiuk
         affiliation: Arizona State University
@@ -23,7 +23,7 @@ committees:
 
 # {{ page.title }}
 
-Students travel grants are available thanks to the generous support of NSF and ACM SIGMOBILE. Deadline for applications is **May 13th, 2019**. To identify whether you qualify please check in detail the information on the two kinds of grants below.
+Travel grants are available thanks to the generous support of NSF and ACM SIGMOBILE. Deadline for applications is **May 13th, 2019**. To identify whether you qualify please check in detail the information on the two kinds of grants below.
 
 <a href="STG-NSF.html">NSF Travel Grants</a>
 
