@@ -18,7 +18,7 @@ All full-time computer science and engineering undergraduate or graduate student
 An application for a travel grant should be sent to the general chairs Chiara Petrioli <cpetrioli@gmail.com> and Sergio Palazzo <sergio.palazzo@unict.it>, and student travel grants chairs Violet Syrotiuk <syrotiuk@asu.edu> and RangaRao Venkatesha Prasad <r.r.venkateshaprasad@tudelft.nl>
  by email, with subject “Application to ACM SIGMOBILE Student Travel Grant”.
 
-To increase your chance, applications for funding should be submitted before May 13th, 2019.
+To increase your chance, applications for funding should be submitted before <del>May 13, 2019</del> May 24, 2019.
 
 ## Application Materials
 

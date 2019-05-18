@@ -40,6 +40,8 @@
 - name: Program
   icon: fa-bar-chart
   submenu:
+    - name: Program
+      url: /program.html    
     - name: Keynotes
       url: /keynotes.html
     - name: Accepted papers

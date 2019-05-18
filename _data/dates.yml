@@ -93,9 +93,15 @@ main-notification:
 
 STG:
   track: STG
-  info: Student Travel Grant Deadline
-  date: May 13, 2019 
+  info: Travel Grant Deadline
+  date: May 24, 2019 
   important: true      
+
+STG-notification:
+  track: STG
+  info: Travel Grant Notification
+  date: May 31, 2019 
+  important: true       
 
 # main-due:
 #   track: main

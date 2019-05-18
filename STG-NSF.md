@@ -25,11 +25,11 @@ To apply for a travel grant, please provide the following information in a singl
 6. An estimate of travel costs (see how to estimate travel costs below).
 7. If a student, provide the degree program, research interests, and expected graduation date. In addition, a recommendation letter from student's advisor is required.
 
-By midnight EDT on Monday, May 13, 2019, send your letter with information requested by e-mail to Violet Syrotiuk <syrotiuk@asu.edu> with subject line: Travel Grant Application for MobiHoc 2019
+By midnight EDT on <del>May 13, 2019</del> May 24, 2019, send your letter with information requested by e-mail to Violet Syrotiuk <syrotiuk@asu.edu> with subject line: Travel Grant Application for MobiHoc 2019
 
 If applicable, a letter of recommendation should be sent by e-mail to Violet Syrotiuk <syrotiuk@asu.edu> directly from the student’s advisor, by the same deadline with the subject line “Recommendation Letter for MobiHoc 2019"
 
-Travel grant requests will be reviewed by the two Travel Grant Co-Chairs in addition to one additional member of the Organizing Committee as soon as possible after the application due date with decisions announced by Monday, May 20, 2019.
+Travel grant requests will be reviewed by the two Travel Grant Co-Chairs in addition to one additional member of the Organizing Committee as soon as possible after the application due date with decisions announced by <del>May 20, 2019</del> May 31, 2019.
 
 
 ## Estimating Travel Costs
