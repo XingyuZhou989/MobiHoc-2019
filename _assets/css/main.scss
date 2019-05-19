@@ -16,6 +16,8 @@ $headings-font-weight:    500 !default;
 
 @import 'callouts';
 
+@import 'customizations';
+
 $font-size-base-print: 9px !default;
 @media print {
   html, body {
