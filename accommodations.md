@@ -58,7 +58,9 @@ hotels:
 
 If you are looking for a hotel to stay during ACM MobiHoc 2019, you might want to consider the following hotels which are located in or close to the conference venue:
 
-**Please keep in mind that the listed prices are subject to change daily and/or seasonally**
+**Please keep in mind that the listed prices are subject to change daily and/or seasonally.**
+
+**Be informed that there are only few rooms left at the FourPoints Sheraton Hotel at the agreed rate. Considering also that July is high season in Catania, please book your room at your earliest convenience.**
 
 {% comment %}
 - [Marriott Four Points by Sheraton Catania Hotel and Conference Center]() To get the agreed conference rate, please download, fill, and sign the [hotel reservation form]({% asset Form_MobiHoc_2019_eng.pdf @path %}) and send it to [booking@fourpointscatania.com](mailto:booking@fourpointscatania.com).

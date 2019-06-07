@@ -18,7 +18,7 @@ dates:
 committees:
     - role: General Chairs
       people:
-       - name:        Valeria Loscrì 
+       - name:        Valeria Loscri  
          affiliation: "INRIA Lille-Nord Europe, France"
        - name:        Giuseppe Ruggeri 
          affiliation: "University Mediterranea of Reggio Calabria, Italy"
@@ -95,7 +95,7 @@ committees:
 
 
 
-{% include program-online.html type="ws-mobile-health" %}
+{% include program-online.html type="ws-PERSIST-IoT" %}
 
 ### Call For Papers
 
