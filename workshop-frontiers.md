@@ -34,6 +34,7 @@ committees:
 {: style="text-align: center; margin-bottom: 1em;" }
 
 ### Program
+{% include program-online.html type="ws-frontiers" %}
 
 
 <div class="row">
