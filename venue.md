@@ -18,7 +18,7 @@ Address:
   > Via Antonello da Messina 45  
   > Aci Castello, 95021 Catania CT, Italy
 
-More information about Catania can be found at [here](http://turismo.provincia.ct.it/English/).  
+More information about Catania can be found at [here](https://turismo.cittametropolitana.ct.it/English/).  
 
 ## Getting to Conference Venue
 
