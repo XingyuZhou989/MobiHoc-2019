@@ -9,10 +9,6 @@ group: Calls
 
 MobiHoc 2019 seeks proposals for live demonstrations of mobile computing and dynamic networking technologies. Demonstrations involving the audience are most welcome. Research prototypes as well as advanced commercial solutions are also eligible. However, MobiHoc is not an appropriate forum for marketing or sales presentations. The presenter is expected to insist on how the demonstration supports innovative research results or original applications and/or the value for the community of the test platform. Demonstrations of previously published systems are also welcome. Demonstrations will be selected based on the expected interest from the MobiHoc audience.
 
-## Best Demo
-
-All demos will be considered for the Best Demo Award. The winner will be selected at the conference by an award committee.
-
 ## Submissions and Selection
 
 A demo submission requires an extended abstract with a maximum length of 2 pages, including all figures and references, describing the demonstration as well as any special requirements (other than a demo booth/table). The extended abstract should be formatted with the [ACM style sheet](http://www.acm.org/publications/article-templates/proceedings-template.html). If you are using LaTeX, you can make use of [a simplified ACM conference template](https://github.com/conference-websites/acmart-sigproc-template).  The demo title should begin with `"Demo: "`.
