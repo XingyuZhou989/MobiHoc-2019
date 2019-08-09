@@ -4,7 +4,7 @@ title: Award
 group: Conference
 
 awards:
-  - type: Best Paper Award
+  - type: Best Paper Award sponsored by ACM Europe Council
     papers:
     
     - title: "Barracuda: Theoretical Analysis of the Power of l-polling in Proof-of-Stake Blockchains"
@@ -16,6 +16,7 @@ awards:
 ---
 
 # ACM MobiHoc 2019 Award
+
 
 {% include awards.html awards=page.awards %}
 
