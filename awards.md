@@ -36,7 +36,7 @@ awards:
 
 - “Wideband Full-Duplex Phased Array with Joint Transmit and Receive Beamforming: Optimization and Rate Gains” by Tingjun Chen; Mahmood Baraani Dastjerdi; Harish Krishnaswamy; Gil Zussman
 
-## Sponsor
+## Award sponsored by 
 
   <div class="sponsor">
       <a href="https://europe.acm.org">{% asset logos/acm_europe align="left" height="60 px" %}</a>
