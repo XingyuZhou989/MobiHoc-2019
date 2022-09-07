@@ -4,9 +4,9 @@ title: Welcome
 group: Welcome
 ---
 
-# Welcome to MobiHoc 2019
+# Welcome to MobiHoc 2023
 
-MobiHoc 2019, the Twentieth International Symposium on Mobile Ad Hoc Networking and Computing will be held in Catania, Italy druing July 2-5, 2019.
+MobiHoc 2023, the 24th International Symposium on Mobile Ad Hoc Networking and Computing will be held in Washington DC, USA, October, 2023.
 MobiHoc is a premier international symposium dedicated to addressing challenges in dynamic networks and computing.
 
 It will bring together researchers and practitioners from a broad spectrum of networking research to present the most up-to-date results and achievements in the field.
@@ -14,7 +14,7 @@ It will bring together researchers and practitioners from a broad spectrum of ne
 <!--MobiHoc 2019 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel.
 In addition, it includes workshops that are focused on areas of emerging interest.-->
 
-MobiHoc 2019 will feature a highly selective technical program, three distinguished keynote addresses by Prof. Mihaela Van Der Schaar, Prof. Edward Knightly and Prof. Jack Stankovic, and an exciting panel. In addition, it includes workshops that are focused on areas of emerging interest. More information on MobiHoc Keynotes and Workshops can be find at <a href="keynotes.html">Here</a> and <a href="workshops.html">Here</a>, respectively.
+<!-- MobiHoc 2019 will feature a highly selective technical program, three distinguished keynote addresses by Prof. Mihaela Van Der Schaar, Prof. Edward Knightly and Prof. Jack Stankovic, and an exciting panel. In addition, it includes workshops that are focused on areas of emerging interest. More information on MobiHoc Keynotes and Workshops can be find at <a href="keynotes.html">Here</a> and <a href="workshops.html">Here</a>, respectively. -->
 
 <!--and Workshops , respectively-->
 
@@ -33,7 +33,7 @@ MobiHoc 2019 will feature a highly selective technical program, three distinguis
 
 ### Corporate Supporters
 
-Gold 
+<!-- Gold
 <div class="sponsors">
     <div class="sponsor">
       <a href="https://www.networks.imdea.org/">{% asset logos/imdea-networks-left-clear-background-high-res.png %}</a>
@@ -41,9 +41,9 @@ Gold
   <div class="sponsor">
       <a href="https://www.adlinktech.com/en/index.aspx">{% asset logos/Logo-With-Tagline1.png height="60 px" %}</a>
   </div>
-</div>
+</div> -->
 
-Silver 
+<!-- Silver
 
 <div class="sponsors">
   <div class="sponsor">
@@ -53,11 +53,11 @@ Silver
   <div class="sponsor">
       <a href="https://www.st.com/content/st_com/en.html">{% asset logos/RS82_st_bloc_marque_qi_v.jpg align="right" height="150 px" %}</a>
   </div>
-</div>
+</div> -->
 
 
 
-### Sponsors
+<!-- ### Sponsors
 
 <div class="sponsors">
   <div class="sponsor">
@@ -84,7 +84,10 @@ Silver
   <div class="sponsor">
       <a href="https://www.unict.it/en/">{% asset logos/unict.png %}</a>
   </div>  
-</div>
+</div> -->
+
+
+
 <!--  
 
   <div class="sponsor">
