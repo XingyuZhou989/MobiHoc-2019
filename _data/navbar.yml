@@ -35,84 +35,84 @@
 #       url: /social-events.html
 #     - name: Accepted Papers
 #       url: /accepted-papers.html
-- name: Program
-  icon: fa-bar-chart
-  submenu:
-    - name: Program
-      url: /program.html    
-    - name: Keynotes
-      url: /keynotes.html
-    #- name: Accepted papers
-    #  url: /accepted-papers.html  
-    - name: Posters and Demos
-      url: /posters-demos.html    
-    - name: Workshops
-      url: /workshops.html    
-- name: Award
-  url: /awards.html  
-  icon: fa-book        
+# - name: Program
+#   icon: fa-bar-chart
+#   submenu:
+#     - name: Program
+#       url: /program.html
+#     - name: Keynotes
+#       url: /keynotes.html
+#     #- name: Accepted papers
+#     #  url: /accepted-papers.html
+#     - name: Posters and Demos
+#       url: /posters-demos.html
+#     - name: Workshops
+#       url: /workshops.html
+# - name: Award
+#   url: /awards.html
+#   icon: fa-book
 - name: Author Information
   icon: fa-bullhorn
   submenu:
-    - name: <del>Call for Papers</del>
+    - name: Call for Papers
       url: /cfp.html
     - name: Submission Instructions
       url: /submission.html
-    - name: Camera-Ready Instructions
-      url: /camera-ready.html
-    - name: Registration 
-      url: /registration.html
-    - name: No-Show Policy
-      url: /policy-no-show.html
-- name: Local Information
-  icon: fa-bullhorn
-  submenu:
-    # - name: <del>Call for Travel Grants</del>
-    #   url: /cf-travel-grants.html
-    - name: Venue
-      url: /venue.html
-    #- name: Helpful Maps
-    #  url: /maps.html  
-    - name: Visa Information
-      url: /visa.html
-    - name: Accommodations
-      url: /accommodations.html
+    # - name: Camera-Ready Instructions
+    #   url: /camera-ready.html
+    # - name: Registration
+    #   url: /registration.html
+    # - name: No-Show Policy
+    #   url: /policy-no-show.html
+# - name: Local Information
+#   icon: fa-bullhorn
+#   submenu:
+#     # - name: <del>Call for Travel Grants</del>
+#     #   url: /cf-travel-grants.html
+#     - name: Venue
+#       url: /venue.html
+#     #- name: Helpful Maps
+#     #  url: /maps.html
+#     - name: Visa Information
+#       url: /visa.html
+#     - name: Accommodations
+#       url: /accommodations.html
     # - name: Room Share
     #   url: /room-share.html
-- name: Workshops
+# - name: Workshops
+#   icon: fa-bullhorn
+#   submenu:
+#     - name: Frontiers
+#       url: /workshop-frontiers.html
+#     - name: PERSIST-IoT
+#       url: /workshop-PERSIST-IoT.html
+#     - name: iFIRE
+#       url: /workshop-iFIRE.html
+#     - name: TOP-Cars
+#       url: /workshop-TOP-Cars.html
+    #- name: Secure-Cities
+    #  url: /workshop-Secure-Cities.html
+
+      #- name: Call for Workshops
+    #  url: /cfw.html
+- name: Calls
   icon: fa-bullhorn
   submenu:
-    - name: Frontiers
-      url: /workshop-frontiers.html      
-    - name: PERSIST-IoT
-      url: /workshop-PERSIST-IoT.html     
-    - name: iFIRE
-      url: /workshop-iFIRE.html  
-    - name: TOP-Cars
-      url: /workshop-TOP-Cars.html  
-    #- name: Secure-Cities
-    #  url: /workshop-Secure-Cities.html  
-      
-      #- name: Call for Workshops
-    #  url: /cfw.html     
-- name: Calls    
-  icon: fa-bullhorn
-  submenu:  
-    - name: <del>Call for Papers</del>
+    - name: Call for Papers
       url: /cfp.html
-    - name: <del>Call for Workshops</del>
-      url: /cfw.html   
-    - name: <del>Call for Posters</del>
-      url: /cf-posters.html
-    - name: <del>Call for Demos</del>
-      url: /cf-demos.html    
-    - name: Travel Grants
-      url: /travel-grant.html
+    # - name: <del>Call for Workshops</del>
+    #   url: /cfw.html
+    # - name: <del>Call for Posters</del>
+    #   url: /cf-posters.html
+    # - name: <del>Call for Demos</del>
+    #   url: /cf-demos.html
+    # - name: Travel Grants
+    #   url: /travel-grant.html
 
-- name: Anti-Harassment Policy
-  url: /policy-anti-harassment.html
-  icon: fa-book
+# - name: Anti-Harassment Policy
+#   url: /policy-anti-harassment.html
+#   icon: fa-book
 
-- name: Registration 
-  url: /registration.html
-  icon: fa-book  
+# - name: Registration
+#   url: /registration.html
+#   icon: fa-book
