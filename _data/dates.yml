@@ -8,33 +8,34 @@
 
 main-registration:
    track: main
-   info: Paper Registration Deadline (11:59pm PST)
-   date: December 21, 2018
+   info: Abstract Registration Deadline (11:59pm EST)
+   date: February 24, 2023
    important: true
 
 main-submission:
    track: main
-   info: Paper Submission Deadline (11:59pm PST)
-   date: December 21, 2018 <b>(firm, no extension)</b>
+   info: Paper Submission Deadline (11:59pm EST)
+   # date: March 3, 2023 <b>(firm, no extension)</b>
+   date: March 3, 2023
    important: true
 
 workshops-proposals:
    track: Workshops
    info: Workshop Proposals Deadline
    date: January 8, 2019
-   important: true
+   important: false
 
 rebuttal-Start:
   track: main
   info: Rebuttal Start
-  date: February 22, 2019
+  date: June 6, 2023
   important: true
 
 rebuttal-deadline:
   track: main
   info: Rebuttal Deadline (2:59pm EST)
-  date: February 26, 2019 
-  important: true   
+  date: June 12, 2023
+  important: true
 
 #cfw-1:
 #  track: calls
@@ -46,7 +47,7 @@ posters-1:
   track: posters
   date: March 15, 2019
   info: Poster Submission Deadline
-  important: true
+  important: false
 
 posters-2:
   track: posters
@@ -67,12 +68,12 @@ demos-1:
   track: demos
   date: March 15, 2019
   info: Demo Submission Deadline
-  important: true
+  important: false
 
 demos-2:
   track: demos
   date: April 16, 2019
-  info: Notification of Acceptance 
+  info: Notification of Acceptance
 
 
 
@@ -88,20 +89,20 @@ demos-2:
 main-notification:
   track: main
   info: Notification of Acceptance
-  date: March 29, 2019
+  date: July 14, 2023
   important: true
 
 STG:
   track: STG
   info: Travel Grant Deadline
-  date: May 24, 2019 
-  important: true      
+  date: May 24, 2019
+  important: false
 
 STG-notification:
   track: STG
   info: Travel Grant Notification
-  date: May 31, 2019 
-  important: true       
+  date: May 31, 2019
+  important: false
 
 # main-due:
 #   track: main
@@ -170,16 +171,16 @@ STG-notification:
 #   info: Deadline to Accept/Decline Travel Grant Award
 #   date: August 30, 2017
 
-Workshops:
-  track: main
-  info: Workshops
-  date: July 2, 2019
-  important: true
+# Workshops:
+#   track: main
+#   info: Workshops
+#   date: July 2, 2019
+#   important: false
 
 conference:
  track: main
  info: Conference
- date: July 2, 2019 - July 5, 2019
+ date: Oct 2023
  important: true
 
 # ## Workshop planning dates

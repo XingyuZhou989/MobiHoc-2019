@@ -35,7 +35,7 @@ program:
   google_client_id: .travis.d/google_client_id.json
 #   # Google spreadsheet with the conference data
   spreadsheet:
-    - "1qzsK27dGioaDXXW0BElQiROY2E4cOf9pxAr32tbPEnw" # main    
+    - "1qzsK27dGioaDXXW0BElQiROY2E4cOf9pxAr32tbPEnw" # main
 
 assets:
   caching:
@@ -51,7 +51,7 @@ assets:
     - _assets/bower
     - _assets/files
     - .sass-cache
-    
+
   autoprefixer:
     browsers:
       - "last 2 versions"
