@@ -14,7 +14,8 @@ plugins:
 title: "MobiHoc 2019"
 description: "MobiHoc 2019, the Twentieth International Symposium on Mobile Ad Hoc Networking and Computing, will focus on the latest research in the rapidly growing area of mobile ad hoc networking and computing. This symposium will be held in Catania, Italy in June 2019."
 
-baseurl: "/mobihoc/2019"
+# baseurl: "/mobihoc/2019"
+baseurl: "/mobihoc/2023"
 url: "https://www.sigmobile.org"
 
 google:
