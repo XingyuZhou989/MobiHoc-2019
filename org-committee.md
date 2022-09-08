@@ -4,27 +4,6 @@ title: Organizing Committee
 group: Committees
 
 committees:
-    - role: General Chairs
-      people:
-      - name:        Chiara Petrioli
-        affiliation: University of Rome La Sapienza
-        homepage:    http://senseslab.di.uniroma1.it
-        email:       cpetrioli@gmail.com
-
-      - name:        Sergio Palazzo
-        affiliation: University of Catania
-        homepage:    http://www.diit.unict.it/users/spalazzo/
-        email:       sergio.palazzo@unict.it
-
-    - role: TPC Chairs
-      people:
-      - name:        Vijay Subramanian
-        affiliation: University of Michigan
-        homepage:    https://subramanian.engin.umich.edu/
-
-      - name:        Yung Yi
-        affiliation: KAIST
-        homepage:    http://lanada.kaist.ac.kr/~yi/
 
     - role: Steering Committee
       people:
@@ -36,9 +15,9 @@ committees:
         affiliation: Politecnico di Torino
         homepage:    https://www.telematica.polito.it/public/faculty/carla-fabiana-chiasserini  
 
-      - name:        Mario Gerla
-        affiliation: University of California, Los Angeles
-        homepage:    http://web.cs.ucla.edu/~gerla/  
+      - name:        Leandros Tassiulas
+        affiliation: Yale University, USA
+        homepage:    https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas
 
       - name:        Sergio Palazzo
         affiliation: University of Catania
@@ -56,96 +35,115 @@ committees:
         affiliation: University of Illinois at Urbana-Champaign
         homepage:    https://sites.google.com/a/illinois.edu/srikant/
 
-    - role: Local Arrangements Chair
+    - role: General Chairs
       people:
-      - name:        Laura Galluccio
-        affiliation: University of Catania
-        homepage:    http://www.dieei.unict.it/docenti/laura.galluccio
+      - name:        Suresh Subramaniam
+        affiliation: George Washington University, USA
+        homepage:    https://web.seas.gwu.edu/suresh/
+        email:       suresh@gwu.edu
+
+      - name:        Jie Wu
+        affiliation: Temple University, USA
+        homepage:    https://cis.temple.edu/~wu/
+        email:       jiewu@temple.edu
+
+    - role: TPC Chairs
+      people:
+      - name:        Carla Fabiana Chiasserini
+        affiliation: Politecnico di Torino, Italy
+        homepage:    https://www.telematica.polito.it/member/carla-fabiana-chiasserini/
+
+      - name:        Bo Ji
+        affiliation: Virginia Tech, USA
+        homepage:    https://people.cs.vt.edu/boji/
 
     - role: Submission and Publication Chairs
       people:
-      - name:        Longbo Huang
-        affiliation: Tsinghua University
-        homepage:    http://iiis.tsinghua.edu.cn/~huang/
+      - name:        Chiara Boldrini
+        affiliation: IIT-CNR, Italy
+        homepage:    http://cnd.iit.cnr.it/chiara/
 
-      - name:        Bo Ji
-        affiliation: Temple University
-        homepage:    https://cis.temple.edu/~boji/
-
-    - role: Publicity Chairs
-      people:
-      - name:        RangaRao Venkatesha Prasad
-        affiliation: Delft University of Technology, The Netherlands
-        homepage:    http://homepage.tudelft.nl/w5p50/
-
-      - name:        Simone Silvestri
-        affiliation: University of Kentucky
-        homepage:    http://www.cs.uky.edu/~silvestri/
-
-      - name:        Giovanni Neglia
-        affiliation: The French Institute for Research in Computer Science and Automation (inria)
-        homepage:    http://www-sop.inria.fr/members/Giovanni.Neglia/ 
-
-    - role: Registration Chair
-      people:
-      - name:        Gaia Maselli
-        affiliation: Sapienza University of Rome
-        homepage:    http://reti.dsi.uniroma1.it/eng/maselli/
-
-    - role: Travel Grant Chairs
-      people:
-      - name:        Violet Syrotiuk
-        affiliation: Arizona State University
-        homepage:    http://www.public.asu.edu/~syrotiuk/
-
-      - name:        RangaRao Venkatesha Prasad
-        affiliation: Delft University of Technology, The Netherlands
-        homepage:    http://homepage.tudelft.nl/w5p50/
-
-    - role: Finance Chair
-      people:
-      - name:        Ilenia Tinnirello
-        affiliation: University of Palermo
-        homepage:    http://www.tti.unipa.it/ilenia/
-
+      - name:        Bin Li
+        affiliation: Pennsylvania State University, USA
+        homepage:    https://sites.psu.edu/binli/
 
     - role: Workshop Chairs
       people:
-      - name:        Laura Galluccio
-        affiliation: University of Catania
-        homepage:    http://www.dieei.unict.it/docenti/laura.galluccio
+      - name:        Andres Garcia-Saavedra
+        affiliation: NEC Laboratories Europe, Germany
+        homepage:    https://agsaaved.github.io/
 
-      - name:        Stefano Basagni
-        affiliation: Northeastern University
-        homepage:    http://www.ece.neu.edu/fac-ece/basagni/
+      - name:        Parinaz Naghizadeh
+        affiliation: The Ohio State University, USA
+        homepage:    https://parinazn.com/
+
+      - name:        Yin Sun
+        affiliation: Auburn University, USA
+        homepage:    http://webhome.auburn.edu/~yzs0078/
 
     - role: Poster and Demo Chairs
       people:
-      - name:        Carla Fabiana Chiasserini
-        affiliation: Politecnico di Torino
-        homepage:    https://www.telematica.polito.it/public/faculty/carla-fabiana-chiasserini
+      - name:        Carlee Joe-Wong
+        affiliation: Carnegie Mellon University, USA
+        homepage:    https://www.andrew.cmu.edu/user/cjoewong/
 
-      - name:        Serge Fdida
-        affiliation: UPMC Sorbonne University & CNRS
-        homepage:    https://www-npa.lip6.fr/~sf/sergefdida/Main_page.html
+      - name:        Chris Brinton
+        affiliation: Purdue University, USA
+        homepage:    https://www.cbrinton.net/
 
-    - role: Corporate Sponsorship Chairs
+
+    - role: Local Arrangements Chair
       people:
-      - name:        Marco Ajmone Marsan
-        affiliation: Politecnico di Torino & IMDEA Networks Institute
-        homepage:    https://www.telematica.polito.it/public/faculty/marco-ajmone-marsan
-      - name:        Ting He
-        affiliation: Penn State University
-        homepage:    https://sites.google.com/site/thtinghe/
-      - name:        John C.S. Lui
-        affiliation: The Chinese University of Hong Kong
-        homepage:    http://www.cse.cuhk.edu.hk/~cslui/     
+      - name:        Tian Lan
+        affiliation: George Washington University, USA
+        homepage:    https://www2.seas.gwu.edu/~tlan/
+
+      - name:        Omur Ozel
+        affiliation: George Washington University, USA
+        homepage:    https://www.ece.seas.gwu.edu/omur-ozel
+
+    - role: Publicity Chairs
+      people:
+      - name:        Wei Lou
+        affiliation: The Hong Kong Polytechnic University, Hong Kong
+        homepage:    https://www4.comp.polyu.edu.hk/~csweilou/
+
+      - name:        Parth Pathak
+        affiliation: The George Mason University, USA
+        homepage:    http://www.phpathak.com/
+
+      - name:        Anna Maria Vegni
+        affiliation: Roma Tre University, Italy
+        homepage:    http://comlab.uniroma3.it/index.php?page=vegni
+
+    - role: Registration Chair
+      people:
+      - name:        Laura Galluccio
+        affiliation: University of Catania, Italy
+        homepage:    https://scholar.google.com/citations?user=mztEBmIAAAAJ&hl=en
+
+    - role: Travel Grant Chairs
+      people:
+      - name:        Huacheng Zeng
+        affiliation: Michigan State University, USA
+        homepage:    https://cse.msu.edu/~hzeng/
+
+      - name:        Morteza Hashemi
+        affiliation: University of Kansas, USA
+        homepage:    https://hashemi.ku.edu/
+
+    - role: Finance Chair
+      people:
+      - name:        Yu Wang
+        affiliation: Temple University, USA
+        homepage:    https://cis.temple.edu/~yu/
+
 
     - role: Web Chair
       people:
-      - name:        Yin Sun
-        affiliation: Auburn University
-        homepage:    http://www.auburn.edu/~yzs0078/
+      - name:        Xingyu Zhou
+        affiliation: Wayne State University, USA
+        homepage:    http://xingyuzhou.org/
 
 
 ---
