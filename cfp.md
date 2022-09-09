@@ -26,13 +26,7 @@ We are interested both in innovative works in an unexplored and/or emerging topi
 - Networked sensing and communication with new medium, e.g., light/acoustic/mmWave
 - Low power sensor protocols and energy-harvesting systems
 - Wearables and mobile health
-<!-- - Edge computing and distributed computing over networks
-- Software Defined Networking/Network Function Virtualization
-- Big-data analytics and machine learning for dynamic networks
-- Machine learning aided scheduling, resource allocation, and algorithmic protocol design
-- Information-centric networking
-- Energy-efficiency in communication networks
-- Inference in networks -->
+
 
 Authors can keep their names on their submitted paper, i.e., **submissions are not required to be double blind**.
 Authors can also prepare technical reports that are made available on their own websites and on purely archiving organizations such as arXiv.org.
