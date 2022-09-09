@@ -10,8 +10,8 @@
     - name: Organizing Committee
       url: /org-committee.html
       # icon: fa-users
-    - name: Program Committee
-      url: /tpc.html
+    # - name: Program Committee
+    #   url: /tpc.html
       # icon: fa-users
 #    - name: TPC Meeting
 #      url: /tpc-meeting.html
