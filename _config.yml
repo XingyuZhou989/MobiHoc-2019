@@ -52,6 +52,7 @@ assets:
     - _assets/bower
     - _assets/files
     - .sass-cache
+    - _assets/bootstrap
 
   autoprefixer:
     browsers:

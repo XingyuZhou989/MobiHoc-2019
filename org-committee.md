@@ -83,13 +83,15 @@ committees:
 
     - role: Poster and Demo Chairs
       people:
+      - name:        Chris Brinton
+        affiliation: Purdue University, USA
+        homepage:    https://www.cbrinton.net/
+
       - name:        Carlee Joe-Wong
         affiliation: Carnegie Mellon University, USA
         homepage:    https://www.andrew.cmu.edu/user/cjoewong/
 
-      - name:        Chris Brinton
-        affiliation: Purdue University, USA
-        homepage:    https://www.cbrinton.net/
+
 
 
     - role: Local Arrangements Chair
@@ -122,15 +124,17 @@ committees:
         affiliation: University of Catania, Italy
         homepage:    https://scholar.google.com/citations?user=mztEBmIAAAAJ&hl=en
 
-    - role: Travel Grant Chairs
+    - role: Travel Grant and Sponsorship Chairs
       people:
+      - name:        Morteza Hashemi
+        affiliation: University of Kansas, USA
+        homepage:    https://hashemi.ku.edu/
+        
       - name:        Huacheng Zeng
         affiliation: Michigan State University, USA
         homepage:    https://cse.msu.edu/~hzeng/
 
-      - name:        Morteza Hashemi
-        affiliation: University of Kansas, USA
-        homepage:    https://hashemi.ku.edu/
+
 
     - role: Finance Chair
       people:
