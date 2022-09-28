@@ -33,7 +33,7 @@ rebuttal-Start:
 
 rebuttal-deadline:
   track: main
-  info: Rebuttal Deadline (2:59pm EST)
+  info: Rebuttal Deadline
   date: June 12, 2023
   important: true
 

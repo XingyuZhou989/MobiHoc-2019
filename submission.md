@@ -7,7 +7,7 @@ group: Author Information
 
 # {{ page.title }}
 
-Papers should be submitted via [the HotCRP submissing website ( https://mobihoc19.hotcrp.com)](https://mobihoc19.hotcrp.com).
+Papers should be submitted via [the HotCRP submissing website ( https://mobihoc23.hotcrp.com)](https://mobihoc23.hotcrp.com).
 
 Papers should not exceed 10 pages (US letter size) double column including figures, tables, and references in standard ACM format.
 Papers must be submitted electronically in printable PDF form.
@@ -22,7 +22,7 @@ The identity of referees will not be revealed to authors, but author can keep th
 *Accepted papers will appear in the conference proceedings published by the ACM. Warning: It is ACM policy not to allow double submissions, where the same paper is submitted to more than one conference/journal concurrently. Any double submissions detected will be immediately rejected from all conferences/journals involved.*
 {: class="bs-callout bs-callout-danger" }
 
- 
+
 #### Rebuttal Submission Policy
 
 The authors can write a rebuttal after the first-round review process is complete, and upload the rebuttal to the hotcrp submission site. During the rebuttal phase, you will have access to the current state of your reviews and have the opportunity to submit a response of **<font color= "Red">ONE PAGE</font>**
