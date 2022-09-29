@@ -129,7 +129,7 @@ committees:
       - name:        Morteza Hashemi
         affiliation: University of Kansas, USA
         homepage:    https://hashemi.ku.edu/
-        
+
       - name:        Huacheng Zeng
         affiliation: Michigan State University, USA
         homepage:    https://cse.msu.edu/~hzeng/
@@ -160,6 +160,6 @@ committees:
 
 <div class="row">
   <div class="col-sm-6 col-sm-offset-3">
-    <a href="mailto:cpetrioli@gmail.com,sergio.palazzo@unict.it" class="btn btn-primary btn-block" role="button">Contact General Chairs</a>
+    <a href="mailto:suresh@gwu.edu,jiewu@temple.edu" class="btn btn-primary btn-block" role="button">Contact General Chairs</a>
   </div>
 </div>
