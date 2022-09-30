@@ -6,10 +6,12 @@ group: Welcome
 
 # Welcome to MobiHoc 2023
 
-MobiHoc 2023, the 24th International Symposium on Mobile Ad Hoc Networking and Computing will be held in Washington DC, USA, October, 2023.
+MobiHoc 2023, the 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing will be held in Washington DC, USA, October, 2023.
 MobiHoc is a premier international symposium dedicated to addressing challenges in dynamic networks and computing.
 
 It will bring together researchers and practitioners from a broad spectrum of networking research to present the most up-to-date results and achievements in the field.
+
+MobiHoc 2023 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel. In addition, it includes workshops that are focused on areas of emerging interest.
 
 <!--MobiHoc 2019 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel.
 In addition, it includes workshops that are focused on areas of emerging interest.-->
