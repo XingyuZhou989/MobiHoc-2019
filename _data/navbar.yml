@@ -9,10 +9,10 @@
   submenu:
     - name: Organizing Committee
       url: /org-committee.html
-      # icon: fa-users
-    # - name: Program Committee
-    #   url: /tpc.html
-      # icon: fa-users
+      icon: fa-users
+    - name: Program Committee
+      url: /tpc.html
+      icon: fa-users
 #    - name: TPC Meeting
 #      url: /tpc-meeting.html
 #      # icon: fa-users
