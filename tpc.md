@@ -63,7 +63,10 @@ committees:
         homepage: http://www.cs.unibo.it/difelice/
       - name: Lingjie Duan
         affiliation: Singapore University of Technology and Design
-        homepage: https://esd.sutd.edu.sg/people/faculty/lingjie-duan        
+        homepage: https://esd.sutd.edu.sg/people/faculty/lingjie-duan
+      - name: Atilla Eryilmaz
+        affiliation: The Ohio State University
+        homepage: http://www2.ece.ohio-state.edu/~eryilmaz/           
       - name: Eylem Ekici
         affiliation: The Ohio State University
         homepage: http://www2.ece.ohio-state.edu/~ekici/           

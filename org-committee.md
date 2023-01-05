@@ -100,9 +100,6 @@ committees:
         affiliation: George Washington University, USA
         homepage:    https://www2.seas.gwu.edu/~tlan/
 
-      - name:        Omur Ozel
-        affiliation: George Washington University, USA
-        homepage:    https://www.ece.seas.gwu.edu/omur-ozel
 
     - role: Publicity Chairs
       people:

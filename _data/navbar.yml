@@ -100,8 +100,8 @@
   submenu:
     - name: Call for Papers
       url: /cfp.html
-    # - name: <del>Call for Workshops</del>
-    #   url: /cfw.html
+    - name: Call for Workshop Proposals
+      url: /cfw.html
     # - name: <del>Call for Posters</del>
     #   url: /cf-posters.html
     # - name: <del>Call for Demos</del>
