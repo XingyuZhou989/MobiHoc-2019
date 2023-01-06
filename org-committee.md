@@ -100,6 +100,10 @@ committees:
         affiliation: George Washington University, USA
         homepage:    https://www2.seas.gwu.edu/~tlan/
 
+      - name:        Danda Rawat
+        affiliation: Howard University, USA
+        homepage:    https://www.rawatonline.com/
+
 
     - role: Publicity Chairs
       people:
