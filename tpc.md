@@ -37,6 +37,9 @@ committees:
       - name: Sid Chi-Kin Chau
         affiliation: Australian National University
         homepage: https://users.cecs.anu.edu.au/~sid.chau/
+      - name: Jiming Chen
+        affiliation: Zhejiang University
+        homepage: https://person.zju.edu.cn/en/jmchen
       - name: Minghua Chen
         affiliation: City University of Hong Kong
         homepage: https://www.mhchen.com/
