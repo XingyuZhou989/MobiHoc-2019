@@ -9,14 +9,15 @@
 main-registration:
    track: main
    info: Abstract Registration Deadline (11:59pm EST)
-   date: February 24, 2023
+   date: March 10, 2023 (<b>firm</b>)
    important: true
 
 main-submission:
    track: main
    info: Paper Submission Deadline (11:59pm EST)
    # date: March 3, 2023 <b>(firm, no extension)</b>
-   date: March 3, 2023
+   # date: March 3, 2023
+   date: March 10, 2023 (<b>firm</b>)
    important: true
 
 workshops-proposals:

@@ -315,6 +315,6 @@ committees:
 
 <div class="row">
   <div class="col-sm-6 col-sm-offset-3">
-    <a href="mailto:suresh@carla.chiasserini@polito.it,boji@vt.edu" class="btn btn-primary btn-block" role="button">Contact TPC Chairs</a>
+    <a href="mailto:mobihoc2023tpcchairs@gmail.com" class="btn btn-primary btn-block" role="button">Contact TPC Chairs</a>
   </div>
 </div>
