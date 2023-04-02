@@ -35,8 +35,11 @@ google:
 program:
   google_client_id: .travis.d/google_client_id.json
 #   # Google spreadsheet with the conference data
+  # spreadsheet:
+  #   - "1qzsK27dGioaDXXW0BElQiROY2E4cOf9pxAr32tbPEnw" # main
   spreadsheet:
-    - "1qzsK27dGioaDXXW0BElQiROY2E4cOf9pxAr32tbPEnw" # main
+    - "16DeHWcHjdIvgmma1bu8l22G8vzKa1fWNDS54OrHN_iw" # main
+  
 
 assets:
   caching:
