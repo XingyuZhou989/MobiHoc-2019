@@ -35,9 +35,9 @@ Workshop proposals should provide the following information:
 
 Please submit workshop proposals in PDF format to the co-chairs by email (mobihoc23.workshops@gmail.com), with subject line [MobiHoc’23 Workshop Proposal Submission: “workshop name”]. Submissions must be received by the deadline below.
 
-**May 5, 2023** - Workshop proposals due
+**May 19, 2023** - Workshop proposals due
 
-**May 10, 2023** - Notification of workshop proposal acceptance
+**May 24, 2023** - Notification of workshop proposal acceptance
 
 **July 21, 2023** - Workshop paper submission deadline (suggested)
 

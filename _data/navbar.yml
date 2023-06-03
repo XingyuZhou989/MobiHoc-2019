@@ -79,17 +79,17 @@
 #       url: /accommodations.html
     # - name: Room Share
     #   url: /room-share.html
-# - name: Workshops
-#   icon: fa-bullhorn
-#   submenu:
-#     - name: Frontiers
-#       url: /workshop-frontiers.html
-#     - name: PERSIST-IoT
-#       url: /workshop-PERSIST-IoT.html
-#     - name: iFIRE
-#       url: /workshop-iFIRE.html
-#     - name: TOP-Cars
-#       url: /workshop-TOP-Cars.html
+- name: Workshops
+  icon: fa-bullhorn
+  submenu:
+    - name: REUNS
+      url: /workshop-REUNS.html
+    - name: AIoT
+      url: /workshop-AIoT.html
+    - name: 6G-PDN
+      url: /workshop-6G-PDN.html
+    - name: IoST-5G&B
+      url: /workshop-IoST.html
     #- name: Secure-Cities
     #  url: /workshop-Secure-Cities.html
 
