@@ -15,7 +15,7 @@ If you need a VISA to enter USA, we encourage you to apply as soon as possible.
 
 ACM does not issue formal invitation letters for visas to attend ACM sponsored conferences. We can however issue a visa support letter.
 - ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee.
-- For visa support letters, refer all requests to supportletters@acm.org. Please allow up to 10 business days to receive a letter. All requests are handled in the order they are received. The information below should be included with the request.
+- For visa support letters, refer all requests to [supportletters@acm.org](mailto:supportletters@acm.org). Please allow up to 10 business days to receive a letter. All requests are handled in the order they are received. The information below should be included with the request.
 1. Your name as it appears on your passport
 2. Your current postal mailing address
 3. The name of the conference you are registering for. Only accepted authors may request a visa support letter prior to registering for the conference
