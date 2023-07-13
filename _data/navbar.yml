@@ -64,13 +64,13 @@
     #   url: /registration.html
     # - name: No-Show Policy
     #   url: /policy-no-show.html
-- name: Local Information
+- name: Venue, Hotel and Visa Information
   icon: fa-bullhorn
   submenu:
 #     # - name: <del>Call for Travel Grants</del>
 #     #   url: /cf-travel-grants.html
-#     - name: Venue
-#       url: /venue.html
+    - name: Venue & Hotel
+      url: /venue.html
 #     #- name: Helpful Maps
 #     #  url: /maps.html
     - name: Visa Information
