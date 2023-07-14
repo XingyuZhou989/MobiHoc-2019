@@ -46,14 +46,14 @@ rebuttal-deadline:
 
 posters-1:
   track: posters
-  date: March 15, 2019
-  info: Poster Submission Deadline
+  date: August 15, 2023
+  info: Submission Deadline
   important: false
 
 posters-2:
   track: posters
-  date: April 16, 2019
-  info: Notification of Acceptance
+  date: August 25, 2023
+  info: Acceptance notification
 
 #posters-2-ext:
 #  track: posters
@@ -62,8 +62,8 @@ posters-2:
 
 posters-3:
   track: posters
-  date: July 2, 2019 - July 5, 2019
-  info: Conference
+  date: September 5, 2023
+  info: Camera-ready manuscript deadline
 
 demos-1:
   track: demos
