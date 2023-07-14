@@ -103,7 +103,7 @@
     - name: Call for Workshop Proposals
       url: /cfw.html
     - name: Call for Posters and Demos
-      url: /cf-posters.html
+      url: /cf-posters-demos.html
     # - name: <del>Call for Demos</del>
     #   url: /cf-demos.html
     # - name: Travel Grants
