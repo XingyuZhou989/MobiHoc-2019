@@ -58,8 +58,8 @@
       url: /cfp.html
     - name: Submission Instructions
       url: /submission.html
-    # - name: Camera-Ready Instructions
-    #   url: /camera-ready.html
+    - name: Camera-Ready Instructions
+      url: /camera-ready.html
     # - name: Registration
     #   url: /registration.html
     # - name: No-Show Policy
