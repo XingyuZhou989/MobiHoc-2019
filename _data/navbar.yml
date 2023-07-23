@@ -75,6 +75,8 @@
 #     #  url: /maps.html
     - name: Visa Information
       url: /visa.html
+    - name: Student Travel Grant
+      url: /STG.html
 #     - name: Accommodations
 #       url: /accommodations.html
     # - name: Room Share
