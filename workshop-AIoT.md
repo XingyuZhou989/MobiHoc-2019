@@ -6,9 +6,9 @@ group: Workshops and Tutorials
 
 dates:
     - info: Paper submission deadline
-      date: July 29, 2023 
-    - info: Notification of acceptance
       date: August 5, 2023
+    - info: Notification of acceptance
+      date: August 12, 2023
     - info: Camera-ready version
       date: August 26, 2023
     - info: Workshop event
