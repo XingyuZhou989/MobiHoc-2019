@@ -10,7 +10,7 @@ group: Author Information
 
 | Paper type | Number of pages | MANUSCRIPT UPLOAD DEADLINE | AUTHOR REGISTRATION DEADLINE |
 | --- | --- | --- | --- |
-| Main conference papers | 10 | August 14th, 2023 (11:59 PM EDT) | August 14th, 2023 (11:59 PM EDT) |
+| Main conference papers | 10 | August 21th, 2023 (11:59 PM EDT) | August 21th, 2023 (11:59 PM EDT) |
 | Workshop papers | 6 | August 30th, 2023 (11:59 PM EDT) | August 30th, 2023 (11:59 PM EDT) |
 | Workshop extended abstracts | 3 | August 30th, 2023 (11:59 PM EDT) | August 30th, 2023 (11:59 PM EDT) |
 | Poster papers | 2 | August 30th, 2023 (11:59 PM EDT) | August 30th, 2023 (11:59 PM EDT) |
