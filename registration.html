@@ -1,28 +1,27 @@
 ---
 layout: default
 title: "Register Now"
-group: Author Information
 
 registrations:
   early:
     - type: Conference Only
-      price: [750, 925, 350]
-    - type: Conference + Workshop 
-      price: [900, 1175, 400]
-    - type: Workshop Only 
-      price: [350, 450, 200]
-    - type: One-Day Registration (Conference) 
-      price: [350, 450, 200]      
+      price: [400, 900, 1050, 450]
+    - type: Conference + Workshop
+      price: [500, 1200, 1400, 550]
+    - type: Workshop Only
+      price: [250, 450, 500, 250]
+    - type: One-Day Conference
+      price: [250, 450, 500, 250]
   late:
     - type: Conference Only
-      price: [850, 1025, 450]
-    - type: Conference + Workshop 
-      price: [1000, 1275, 500]
-    - type: Workshop Only 
-      price: [400, 500, 250]
-    - type: One-Day Registration (Conference) 
-      price: [400, 500, 250]
- 
+      price: [500, 1050, 1250, 550]
+    - type: Conference + Workshop
+      price: [600, 1400, 1600, 650]
+    - type: Workshop Only
+      price: [300, 500, 600, 300]
+    - type: One-Day Conference
+      price: [300, 500, 600, 300]
+
 ---
 
 <h1>Registration</h1>
@@ -31,53 +30,105 @@ registrations:
 
 <p>Each accepted paper/poster must be presented by one of its author(s) at the MobiHoc main conference or workshop.</p>
 <p>To present a paper/poster at the conference or any one of the workshops, at least one author should register at the full (non-student) rates.</p>
-<p>All cancellation and refund requests must be submitted in writing and emailed to the Registration Chair, Gaia Maselli, 
-    <a href="mailto:maselli@di.uniroma1.it">maselli@di.uniroma1.it</a> by 
-  Tuesday, 18 June 2019. There will be an administrative fee of 100 Euro deducted from each refund.</p>
+<!-- <p>All cancellation and refund requests must be submitted in writing and emailed to the Registration Chair, Gaia Maselli,
+    <a href="mailto:maselli@di.uniroma1.it">maselli@di.uniroma1.it</a> by
+  Tuesday, 18 June 2019. There will be an administrative fee of 100 Euro deducted from each refund.</p> -->
 
 <p>&nbsp;</p>
 
 <div class="row">
 <div class="col-sm-6 col-sm-offset-3">
-<a href="http://www.cvent.com/d/g6qrbh/4W" class="btn btn-primary btn-block" role="button">&gt;&gt; Register Now &lt;&lt;</a>
+<a href="https://cvent.me/XvQK4z" class="btn btn-primary btn-block" role="button">&gt;&gt; Register Now &lt;&lt;</a>
 </div>
 </div>
 
 <p>&nbsp;</p>
 
 
-
 <div class="list-group condensed">
-  <div class="list-group-item active">Early Registration (Ending on June 2, 2019)</div>
-
+  <div class="list-group-item active">Early Registration (Ending on Sept. 15, 2023)</div>
   <div class="list-group-item">
     <div class="row">
-      <div class="col-md-3"><b>Event</b></div>
-      <div class="col-md-3"><b>ACM/SIG Member</b></div>
-      <div class="col-md-3"><b>Non-Member</b></div>
-      <div class="col-md-3"><b>Student</b></div>
+    <div class="col-md-4" style="word-wrap: break-word;"><b>Event</b></div>
+      <div class="col-md-2"><b>ACM Student Member</b></div>
+      <div class="col-md-2"><b>ACM/SIG Member</b></div>
+      <div class="col-md-2"><b>Non-Member</b></div>
+      <div class="col-md-2"><b>Student Non-Member</b></div>
     </div>
   </div>
   {% for reg in page.registrations.early %}
   <div class="list-group-item">
     <div class="row">
-      <div class="col-md-3">{{ reg.type }}</div>
-      <div class="col-md-3">{{ reg.price[0] }} Euro</div>
-      <div class="col-md-3">{{ reg.price[1] }} Euro</div>
-      <div class="col-md-3">{{ reg.price[2] }} Euro</div>
+      <div class="col-md-4" style="word-wrap: break-word;">{{ reg.type }}</div>
+      <div class="col-md-2">{{ reg.price[0] }} $</div>
+      <div class="col-md-2">{{ reg.price[1] }} $</div>
+      <div class="col-md-2">{{ reg.price[2] }} $</div>
+      <div class="col-md-2">{{ reg.price[3] }} $</div>
     </div>
   </div>
   {% endfor %}
 </div>
 
 <div class="list-group">
-  <div class="list-group-item active">Late Registration (Starting on Jun 3, 2019)</div>
+  <div class="list-group-item active">Late Registration (Starting on Sept. 16, 2023)</div>
+  <div class="list-group-item">
+    <div class="row">
+      <div class="col-md-4"><b>Event</b></div>
+      <div class="col-md-2"><b>ACM Student Member</b></div>
+      <div class="col-md-2"><b>ACM/SIG Member</b></div>
+      <div class="col-md-2"><b>Non-Member</b></div>
+      <div class="col-md-2"><b>Student Non-Member</b></div>
+    </div>
+  </div>
+  {% for reg in page.registrations.late %}
+  <div class="list-group-item">
+    <div class="row">
+      <div class="col-md-4">{{ reg.type }}</div>
+      <div class="col-md-2">{{ reg.price[0] }} $</div>
+      <div class="col-md-2">{{ reg.price[1] }} $</div>
+      <div class="col-md-2">{{ reg.price[2] }} $</div>
+      <div class="col-md-2">{{ reg.price[3] }} $</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+
+
+<!-- <div class="list-group condensed">
+  <div class="list-group-item active">Early Registration (Ending on Sept. 15, 2023)</div>
+
+  <div class="list-group-item">
+    <div class="row">
+      <div class="col-md-4"><b>Event</b></div>
+      <div class="col-md-2"><b>ACM Student Member</b></div>
+      <div class="col-md-2"><b>ACM/SIG Member</b></div>
+      <div class="col-md-2"><b>Non-Member</b></div>
+      <div class="col-md-2"><b>Student Non-Member</b></div>
+    </div>
+  </div>
+  {% for reg in page.registrations.early %}
+  <div class="list-group-item">
+    <div class="row">
+      <div class="col-md-4">{{ reg.type }}</div>
+      <div class="col-md-2">{{ reg.price[0] }} Euro</div>
+      <div class="col-md-2">{{ reg.price[1] }} Euro</div>
+      <div class="col-md-2">{{ reg.price[2] }} Euro</div>
+      <div class="col-md-2">{{ reg.price[3] }} Euro</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="list-group">
+  <div class="list-group-item active">Late Registration (Starting on Sept. 16, 2023)</div>
   <div class="list-group-item">
     <div class="row">
       <div class="col-md-3"><b>Event</b></div>
+        <div class="col-md-3"><b>ACM Student Member</b></div>
       <div class="col-md-3"><b>ACM/SIG Member</b></div>
       <div class="col-md-3"><b>Non-Member</b></div>
-      <div class="col-md-3"><b>Student</b></div>
+      <div class="col-md-3"><b>Student Non-Member</b></div>
     </div>
   </div>
   {% for reg in page.registrations.late %}
@@ -87,7 +138,8 @@ registrations:
       <div class="col-md-3">{{ reg.price[0] }} Euro</div>
       <div class="col-md-3">{{ reg.price[1] }} Euro</div>
       <div class="col-md-3">{{ reg.price[2] }} Euro</div>
+      <div class="col-md-3">{{ reg.price[3] }} Euro</div>
     </div>
   </div>
   {% endfor %}
-</div>
+</div> -->

@@ -60,11 +60,15 @@
       url: /submission.html
     - name: Camera-Ready Instructions
       url: /camera-ready.html
-    # - name: Registration
-    #   url: /registration.html
+
     # - name: No-Show Policy
     #   url: /policy-no-show.html
-- name: Venue, Hotel and Visa Information
+
+# - name: Registration
+#   url: /registration.html
+#   icon: icon: fa-book
+
+- name: Venue, Hote, Registration and Visa
   icon: fa-bullhorn
   submenu:
 #     # - name: <del>Call for Travel Grants</del>
@@ -77,6 +81,8 @@
       url: /visa.html
     - name: Student Travel Grant
       url: /STG.html
+    - name: Registration
+      url: /registration.html
 #     - name: Accommodations
 #       url: /accommodations.html
     # - name: Room Share
