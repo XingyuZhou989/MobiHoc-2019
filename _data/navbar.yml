@@ -68,7 +68,7 @@
 #   url: /registration.html
 #   icon: icon: fa-book
 
-- name: Venue, Hote, Registration and Visa
+- name: Venue, Hotel, Registration and Visa
   icon: fa-bullhorn
   submenu:
 #     # - name: <del>Call for Travel Grants</del>

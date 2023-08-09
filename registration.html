@@ -30,6 +30,16 @@ registrations:
 
 <p>Each accepted paper/poster must be presented by one of its author(s) at the MobiHoc main conference or workshop.</p>
 <p>To present a paper/poster at the conference or any one of the workshops, at least one author should register at the full (non-student) rates.</p>
+
+<ol>
+  <li>Every paper must have a separate regular (i.e., non-student) registration. One registration is valid for ONE paper.</li>
+  <li>The combined conference+workshop rate will cover ONE conference paper and ONE workshop paper by the same author.</li>
+  <li>Authors must register prior to the submission of camera-ready manuscript.</li>
+  <li>Poster/demo session authors may register at one-day registration rate if they are not attending the rest of the conference.</li>
+  <li>Conference registration includes lunches, coffee break, reception on Tuesday Oct. 24 and banquet on Wednesday Oct. 25.</li>
+  <li>Extra banquet tickets for guests are available for a fee of $150.</li>
+</ol>
+
 <!-- <p>All cancellation and refund requests must be submitted in writing and emailed to the Registration Chair, Gaia Maselli,
     <a href="mailto:maselli@di.uniroma1.it">maselli@di.uniroma1.it</a> by
   Tuesday, 18 June 2019. There will be an administrative fee of 100 Euro deducted from each refund.</p> -->
@@ -60,10 +70,10 @@ registrations:
   <div class="list-group-item">
     <div class="row">
       <div class="col-md-4" style="word-wrap: break-word;">{{ reg.type }}</div>
-      <div class="col-md-2">{{ reg.price[0] }} $</div>
-      <div class="col-md-2">{{ reg.price[1] }} $</div>
-      <div class="col-md-2">{{ reg.price[2] }} $</div>
-      <div class="col-md-2">{{ reg.price[3] }} $</div>
+      <div class="col-md-2">${{ reg.price[0] }}</div>
+      <div class="col-md-2">${{ reg.price[1] }}</div>
+      <div class="col-md-2">${{ reg.price[2] }}</div>
+      <div class="col-md-2">${{ reg.price[3] }}</div>
     </div>
   </div>
   {% endfor %}
@@ -84,10 +94,10 @@ registrations:
   <div class="list-group-item">
     <div class="row">
       <div class="col-md-4">{{ reg.type }}</div>
-      <div class="col-md-2">{{ reg.price[0] }} $</div>
-      <div class="col-md-2">{{ reg.price[1] }} $</div>
-      <div class="col-md-2">{{ reg.price[2] }} $</div>
-      <div class="col-md-2">{{ reg.price[3] }} $</div>
+      <div class="col-md-2">${{ reg.price[0] }}</div>
+      <div class="col-md-2">${{ reg.price[1] }}</div>
+      <div class="col-md-2">${{ reg.price[2] }}</div>
+      <div class="col-md-2">${{ reg.price[3] }}</div>
     </div>
   </div>
   {% endfor %}
