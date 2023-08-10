@@ -2,7 +2,15 @@
 layout: default
 title: Anti-Harassment Policy
 
+contacts:
+  - name: the conference General Chairs
+    email: suresh@gwu.edu,jiewu@temple.edu
 
+  - name: the current SIGMOBILE Chair (Lili Qiu)
+    email: lili@cs.utexas.edu
+
+  - name: the current SIGMOBILE Vice-Chair (Falko Dressler)
+    email: dressler@ccs-labs.org
 
 ---
 
