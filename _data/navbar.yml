@@ -60,6 +60,8 @@
       url: /submission.html
     - name: Camera-Ready Instructions
       url: /camera-ready.html
+    - name: Student Travel Grant
+      url: /STG.html
 
     # - name: No-Show Policy
     #   url: /policy-no-show.html
@@ -68,7 +70,11 @@
 #   url: /registration.html
 #   icon: icon: fa-book
 
-- name: Venue, Hotel, Registration and Visa
+- name: Registration
+  url: /registration.html
+  icon: fa-book
+
+- name: Local Information
   icon: fa-bullhorn
   submenu:
 #     # - name: <del>Call for Travel Grants</del>
@@ -79,10 +85,9 @@
 #     #  url: /maps.html
     - name: Visa Information
       url: /visa.html
-    - name: Student Travel Grant
-      url: /STG.html
-    - name: Registration
-      url: /registration.html
+
+    # - name: Registration
+    #   url: /registration.html
 #     - name: Accommodations
 #       url: /accommodations.html
     # - name: Room Share
@@ -117,10 +122,6 @@
     # - name: Travel Grants
     #   url: /travel-grant.html
 
-# - name: Anti-Harassment Policy
-#   url: /policy-anti-harassment.html
-#   icon: fa-book
-
-# - name: Registration
-#   url: /registration.html
-#   icon: fa-book
+- name: Anti-Harassment Policy
+  url: /policy-anti-harassment.html
+  icon: fa-book

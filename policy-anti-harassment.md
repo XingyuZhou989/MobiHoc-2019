@@ -2,15 +2,7 @@
 layout: default
 title: Anti-Harassment Policy
 
-contacts:
-  - name: the conference General Chairs
-    email: gsergio.palazzo@unict.it,cpetrioli@gmail.com
 
-  - name: the current SIGMOBILE Chair (Marco Gruteser)
-    email: gruteser@winlab.rutgers.edu
-
-  - name: the current SIGMOBILE Vice-Chair (Jason Flinn)
-    email: jflinn@umich.edu
 
 ---
 
@@ -43,11 +35,11 @@ All reports of alleged harassment will be addressed expeditiously and jointly by
 - A permanent ban from participation in all SIG-sponsored conferences and events, to be lifted only by a future meeting of the Executive Committee and chairs of a future conference.
 - A permanent ban on being allowed to serve as a member of the technical program committee at SIG-sponsored events, to be lifted only by the Executive Committee.
 
- 
+
 ## Confidentiality
 
 Your report will be kept as confidential as possible: it will be known only by the person you confide in, the conference General Chair(s), and the SIG Chair and Vice Chair. A written record on every reported incident will be made available to future SIG Chairs/Vice Chairs to preserve institutional memory. It is your choice whether you would like your name to be mentioned in this record, or used as part of the investigation (i.e., when the investigators interview others involved) at all. If the investigation determines that one or more violations occurred, the name of the offender will be included in the report.  If the report raises the possibility of criminal wrongdoing, the appropriate authorities will be notified, in consultation with, and the explicit approval of, the person(s) being harassed.
- 
+
 ## Caveat
 
 If the person being investigated is one of the General Chairs or one of the two named SIG officials, then that person will be excluded from the investigation. If a person named in one or more written records becomes a future SIG Chair or Vice Chair, they will not be given those records.
