@@ -13,6 +13,7 @@ group: Author Information
 | Main conference papers | 10 | August 21th, 2023 (11:59 PM EDT) | August 21th, 2023 (11:59 PM EDT) |
 | Workshop papers | 6 | August 30th, 2023 (11:59 PM EDT) | August 30th, 2023 (11:59 PM EDT) |
 | Workshop extended abstracts | 3 | August 30th, 2023 (11:59 PM EDT) | August 30th, 2023 (11:59 PM EDT) |
+| Workshop Posters| 3 | August 30th, 2023 (11:59 PM EDT) | August 30th, 2023 (11:59 PM EDT) |
 | Poster papers | 2 | August 30th, 2023 (11:59 PM EDT) | August 30th, 2023 (11:59 PM EDT) |
 | Demo papers | 2 | August 30th, 2023 (11:59 PM EDT) | August 30th, 2023 (11:59 PM EDT) |
 
@@ -44,10 +45,16 @@ Once the registration is completed, please send an email to the Registration Cha
 - The rights and permissions information, conference information, and bibliographic strip (your paper’s DOI and ACM MobiHoc’s ISBN) must appear on the lower left-hand portion of the first page, following the instructions you have received from ACM after filling out the e-Rights form via the ACM rights-management tool on the HotCRP page of the paper.
 - Choose the appropriate ACM CCS concepts or categories from this website: [https://dl.acm.org/ccs/ccs.cfm](https://dl.acm.org/ccs/ccs.cfm). Specifically, you need to assign the CCS concepts, click “Generate CCS Codes” and copy the TeX code to your LaTeX for your camera-ready paper.
 - **Page numbers should not appear in the camera-ready PDF.**
-- The page limit for publications in the main conference is **10 pages**. Workshop papers are limited to **6 pages** (or 3 if extended abstracts). Demo and poster papers are limited to **2 pages**.
+- The page limit for publications in the main conference is **10 pages**. Workshop papers are limited to **6 pages** (or **3** if extended abstracts/poster papers). Demo and poster papers in the main conference are limited to **2 pages**.
 - The demo title should begin with "Demo: ", and the poster title should begin with "Poster: ".
 - Your PDF submission should have all fonts embedded. If you are unsure about how to check for this, see: [http://www.acm.org/binaries/content/assets/publications/word-to-pdf-instructions-.txt](http://www.acm.org/binaries/content/assets/publications/word-to-pdf-instructions-.txt).
-- Submit all the source files, ACM CCS concepts (the CCS XML codes that were generated, not the CCS TeX code), references, and the camera-ready PDF through HotCRP.
+- Submit through HotCRP all of the following:
+  - source files
+  - ACM keywords
+  - ACM CCS concepts (the CCS XML codes that were generated, not the CCS TeX code)
+  - references
+  - camera-ready PDF.
+
 
 ### 4. Upload your camera-ready manuscript
 **Conference papers:** Please use the HotCRP submission website for the main conference ([https://mobihoc23.hotcrp.com/](https://mobihoc23.hotcrp.com/)) to upload your camera-ready manuscript.
