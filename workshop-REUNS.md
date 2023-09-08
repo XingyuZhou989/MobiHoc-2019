@@ -12,7 +12,7 @@ dates:
     - info: Camera-ready version
       date: August 30, 2023
     - info: Workshop event
-      date: October 23 -- 26, 2023 (TBD)
+      date: October 23, 2023
 committees:
     - role: Steering Committee
       people:
